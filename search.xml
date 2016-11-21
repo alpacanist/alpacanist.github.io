@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[当我们谈论橙光时，我们在谈论什么]]></title>
+      <url>http://yoursite.com/2016/2016-10-28/</url>
+      <content type="html"><![CDATA[<p>不久前，我准备开始写一个有关橙光游戏的文章系列。<br>这个想法并非突如其来。从早年橙光因版权问题而被攻讦、因《潜伏之赤途》等游戏而脍炙人口、在 U77 被刷一星，直到最近获巨额融资、“占领” b 站甚至进军 steam 青睐之光，有关橙光的话题基本集中在玛丽苏、傻瓜式制作、神作《赤途》和版权原罪几个方面。<br>与此同时，普通橙光游戏制作者和玩家的形象却一直湮没在官方新闻稿公式话语和游戏业界猎奇式的审视之下，集体失声，成为一个孤立于整个业界的特殊群体。<br><a id="more"></a><br>这种孤立，一方面是发源于橙光上线初期因为版权问题和宫斗、明星题材遭到的集体抵制与鄙夷。版权问题一直是无法洗除的原罪，特别在中文同人游戏圈子，橙光几乎是一枚耻辱的烙印，一个禁忌词语。不可否认，其创始人在版权问题上有着一种特殊的观念。<br>另一方面，橙光平台上的游戏对于资深游戏玩家来说，也可谓匪夷所思——形式上，直到现在不少人仍然认为这类内容应被称作电子小说，作者也可以随时更新游戏，和网文平台如出一辙；内容上，和国内网络文学、追星文化相关的题材在文字游戏中也极其罕见。所以它在同人游戏和独立游戏界可谓奇葩中的奇葩。近来创始人发的一篇新闻稿，其标题正暗含了对这一刻板印象的反抗：<a href="youxiputao.com/articles/8267">橙光游戏CEO柳晓宇：我们不是小文化圈子的自嗨-游戏葡萄</a>。</p>
+<p><strong>我们为什么要谈论橙光？</strong><br>因为，发展到如今，橙光已经拥有了几十万款游戏（迄今游戏编号已达700000+），背后更是有着庞大的玩家和制作者群体（据官方统计注册作者可达百万），甚至有配套的各种资源交易圈子。它的收费模式是网文和手游内购的结合，和 steam 等完全不同。<br>最近，模仿橙光的文字游戏 ugc 社区也纷纷上线，如3387、漩涡、魔方、零秒侦破、大好、轻文等（叮~此处收入3元）。<br>这样一个繁荣的游戏社区，我们不该再忽视下去了——哪怕出于不屑。<br>时至今日，我认为主流游戏圈对橙光的态度，和殖民体系下西方对东方的目光相近，仿佛它不存在，或是一个异己。被主流接受的《潜伏之赤途》和《恒水中学杀人事件》两款游戏，也只不过体现了主流的审视，是橙光圈的李小龙和花木兰——它们“和大部分橙光游戏不同”。请问这是对橙光的接受，还是主流审美的进一步强化呢？答案昭然若揭。两者虽然优秀，却显然不是橙光最受欢迎的，甚至不是官方实际鼓励的游戏。它们没有带来利润，也不代表橙光的定位和文化。橙光本身依然被忽视。<br>橙光内部发生了什么，又有谁在意呢？<br>橙光真的充满玛丽苏吗？玛丽苏就不好玩吗？谁说了算？<br>制作橙光游戏到底需要怎样的投入？从未接触过编程的作者是怎样学习制作游戏的？他们做出了怎样的东西？他们为什么制作游戏？<br>橙光游戏发展至今，有哪些“套路”，哪些范式，哪些共同主题？<br>橙光平台如何对待作者，平台和作者之间如何相处？<br>橙光的玩家想要什么？<br>橙光 ugc 模式有多少潜力，又面临什么危机？平台将走向何方？<br>……<br><strong>以上问题，才是我想谈论的橙光</strong>，而不只是偶尔的调侃，融资新闻，“PPT”，或是浅尝辄止的几款游戏推荐。<br>不久前知乎上出现一个问题：<a href="https://www.zhihu.com/question/50741861" target="_blank" rel="external">如何看待橙光游戏签约合同中版权永久属于橙光，而作者仅保留署名权？</a>不少圈内人匿名现身说法，还发生了一些令人哭笑不得的乌龙公关。也正是该问题下的其他答案让我惊觉，橙光和主流游戏界之间信息隔阂之长久，几乎是“乃不知有汉，无论魏晋”。<br>作为利益相关、在橙光发布过一些作品的作者，我以为观察这个新圈子的文化是件很有趣也具有一定价值的事，也想分享自己的见闻和想法。当然，即使我尽量只陈述事实、列举证据、并参考其他作者的意见，叙述肯定会带上主观色彩。这系列文章的目的仅仅是写出我眼中所见的橙光。毕竟，叙述中唯一的事实就是叙述本身。<br>不知道有多少人会读完这篇文章，或是对橙光发生兴趣，但还是最后说一句：非常欢迎各种角度的讨论、疑问和建议。第一次写业界（算是业界）观察评论，毫无经验，如有得罪，也请多包涵和指教。先谢谢了。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[欧美文字游戏推荐之 The Kingdom of Loathing]]></title>
+      <url>http://yoursite.com/2016/2016-10-24/</url>
+      <content type="html"><![CDATA[<p>原文链接<a href="https://cowlevel.net/question/1847605" target="_blank" rel="external">在此</a>。</p>
+<p>来推荐我玩了很久的一款 text-based web mmorpg 吧——the Kingdom of Loathing，中文暂译讨厌的王国。<a href="http://www.u77.com/game/6031?utm_source=cowlevel" target="_blank" rel="external">U77介绍页面</a>；<a href="https://cowlevel.net/game/dc00624ca499ce855e33db8a54fe8ca3" target="_blank" rel="external">本站页面（我添加的）</a>；<a href="https://www.kingdomofloathing.com/?utm_source=cowlevel" target="_blank" rel="external">官网</a>；<a href="http://kol.coldfront.net/thekolwiki/index.php/?utm_source=cowlevel" target="_blank" rel="external">官方 wiki</a><br><a id="more"></a><br>画面长这样：<br><img src="/media/14773556831235.png" alt=""></p>
+<p>（图源：<a href="http://kol.coldfront.net/thekolwiki/index.php/Locations）" target="_blank" rel="external">http://kol.coldfront.net/thekolwiki/index.php/Locations）</a></p>
+<p>以前自己做的汉化尝试（失败）：<br><img src="/media/14773555628435.jpg" alt=""><br>游戏的超冷风格从职业选择可见一斑：<br><img src="/media/14773556583963.png" alt=""></p>
+<p>（翻译和解说：海豹棍手——战士，驯龟师——猎人/德鲁伊，面灵法师——死灵法师，酱法师——元素法师，迪斯科强盗——盗贼/匪徒，手风琴小偷——盗贼/吟游诗人）<br>货币是肉，补药是酒，玩家终日过着酒池肉林的生活……<br>为什么说是文字游戏呢？因为这款游戏拥有超大量的文本，内种埋伏了无数 neta。显然，游戏的画面（故意做得）十分简陋，gameplay 的重头戏落在了文字描述的回合制战斗上。对文本的理解也和解开主线任务谜题、击败一周目最终 boss——淘气女巫的目标息息相关，是绝对不能漏看的。<br>这游戏的合成/锻造系统也诠释了文字游戏的魅力——字面意义上的“文字游戏”！举例，有两样物品，一个叫“反奶酪（anti-cheese）”，是反物质做的奶酪，珍稀食品；另一个叫“村舍奶酪（cottage cheese）”，普通食品。它们合成的结果会是什么呢？我想很多人立刻猜到了……<br><blockquote class="blockquote-center"><p>村舍（cottage），高级建筑。</p>
+</blockquote><br><img src="/media/14773557422612.png" alt=""><br>……实在是振奋人心的发现呀！<br>游戏通关之后，玩家可以选择升天转生，进入更高级的轮回或尝试其他职业。多周目更是生活乐无边，除了开放隐藏地图、剧情、职业、特殊星座等要素，官方每个季度会推出一项新 special challenge path（特殊挑战路线？？），比如今年为了宣传新游戏“讨厌的西部”，开放了三个西部职业供转生。秋季新出的 path 叫“核战”，玩家和怪物会变异成这样：<br><img src="/media/14773557629988.png" alt=""><br>过去的经典路线有：</p>
+<ul>
+<li>讨厌的高中（每天前40个行动点必须在高中度过）</li>
+<li>暴雨（所有地图被水淹没，不知所措）</li>
+<li>蜜蜂恨你（不能使用带有“b”字母的物品，战斗中用带“b”字母的武器会自损八百，每过15-20回合随机飞来一群蜜蜂蜇你）</li>
+</ul>
+<p>总之差不多就是酱吧（不，这不是卖萌，是梗！）。绝对值得一玩的老牌文字游戏。要说有什么缺点，那就是战斗到后期有点无聊，基本无脑点击。多人要素也很淡，平时感觉不到是 mmorpg，除了交易、聊天室和公会系统。这游戏里连多人副本都是孤独的战斗，每个人分头刷怪，直到积分达标……<br>不说了，我先去做一碗凝视着我的尼采意大利面疙瘩吃……</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[《五行说研究》章节笔记]]></title>
+      <url>http://yoursite.com/2016/2016-10-18-1/</url>
+      <content type="html"><![CDATA[<p>本书为“中华神秘文化书系”之《神秘的五行——五行说研究》，作者刘筱红。</p>
+<h3 id="五行的起源"><a href="#五行的起源" class="headerlink" title="五行的起源"></a>五行的起源</h3><h4 id="源头：原始自然崇拜"><a href="#源头：原始自然崇拜" class="headerlink" title="源头：原始自然崇拜"></a>源头：原始自然崇拜</h4><ul>
+<li>先民认识世界：对自然神的崇拜</li>
+<li>《礼记·祭法》：有天下者祭百神</li>
+<li>土、木、水、火的地位确立：<ol>
+<li>进入偶像/祖先崇拜，抽象思维，自然神被化为超人的先人（人格代表）取代。</li>
+<li>原始农业使这些元素具有重要意义。土地崇拜，立“社”，其上种植的树木有神圣意义。</li>
+</ol>
+</li>
+<li>商代甲骨卜辞：埋、沉、燎、卯（将牲畜挂在削尖树枝上）四种祭祀方法</li>
+<li>对金的崇拜较晚</li>
+</ul>
+<a id="more"></a>
+<h4 id="演化：与五方的认同"><a href="#演化：与五方的认同" class="headerlink" title="演化：与五方的认同"></a>演化：与五方的认同</h4><ul>
+<li>五行形成体系：商代，与五方的空间方位相认同，赋予空间价值范畴和原型意义</li>
+<li>“殷人尊神”：社神和四方之帝，因为殷商有发达畜牧业，屡事迁徙，需要占卜方向吉凶，询问该方神灵<ul>
+<li>东方析：汤谷中生长扶桑（若木），上居十个太阳，一个出行返回后，另一个才出发。树代表不死和再生</li>
+<li>西方夷（彝）：日落，西风起时万木萧杀，和金的刑杀特征相似</li>
+<li>南方因（粦）：天气炎热</li>
+<li>北方宛（元，懊，鼋）：冰天雪地。鼋是黄帝族的图腾。《史记·天官书》中说轩辕十七星主雷雨。该星座连接起来很像殷甲骨文龟字</li>
+<li>中央社：殷人尚土</li>
+</ul>
+</li>
+<li>《尚书·尧典》和甲骨卜辞的佐证</li>
+<li>最早记载五行的古代文献：《尚书·洪范》，殷末贵族箕子所述，“洪范九畴”之一就是五行</li>
+<li>甲骨文中的“行”字写作<code>╬</code>，表明了五方之神——“风”</li>
+<li>和五方相认同，乃五行演变的中间站</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Ren'py 掉坑记录(2)：文本框淡入淡出]]></title>
+      <url>http://yoursite.com/2016/2016-10-18/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>一个文本框插件改写。</p>
+</blockquote>
+<p>已经是好几周前的代码了，写得一般，纯粹练手作。<br>使用方法：保存为 <code>.rpy</code> 文件。<br>有空就添加更多注释。<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div></pre></td><td class="code"><pre><div class="line">init python:</div><div class="line">    config.window_auto_hide.append(&quot;say&quot;)</div><div class="line">    config.window_auto_hide.append(&quot;menu&quot;)</div><div class="line">init:</div><div class="line">    $ win_x = 0.5</div><div class="line">    $ win_y_off = 1.5</div><div class="line">    $ win_y_on = 0.95</div><div class="line">    $ fade_time = 0.6</div><div class="line">    $ win_alpha_off = 0.0</div><div class="line">    $ win_alpha_on = 1.0</div><div class="line"></div><div class="line">    transform say_fade:</div><div class="line">        on show:</div><div class="line">            alpha win_alpha_off</div><div class="line">            xpos win_x</div><div class="line">            ypos win_y_off</div><div class="line">            ease fade_time alpha win_alpha_on ypos win_y_on</div><div class="line">        on hide:</div><div class="line">            alpha win_alpha_on</div><div class="line">            xpos win_x</div><div class="line">            ypos win_y_on</div><div class="line">            ease fade_time alpha win_alpha_off ypos win_y_off</div><div class="line">            pause fade_time</div><div class="line"></div><div class="line">    screen say:</div><div class="line"></div><div class="line">        # 侧边图(side image)与双文本框的默认值。</div><div class="line">        default side_image = None</div><div class="line">        default two_window = False</div><div class="line"></div><div class="line">        # 决定单文本框或双文本框的变量：</div><div class="line">        if not two_window:</div><div class="line"></div><div class="line">            # 单文本框。</div><div class="line">            window at say_fade:</div><div class="line">                id &quot;window&quot;</div><div class="line">                #background &quot;#FFFFFF&quot;</div><div class="line">                has vbox:</div><div class="line">                    style &quot;say_vbox&quot;</div><div class="line">                if who:</div><div class="line">                    text who id &quot;who&quot;</div><div class="line">                text what id &quot;what&quot;</div><div class="line"></div><div class="line">        else:</div><div class="line"></div><div class="line">            # 双文本框。</div><div class="line">            vbox:</div><div class="line">                style &quot;say_two_window_vbox&quot;</div><div class="line">                if who:</div><div class="line">                    window:</div><div class="line">                        style &quot;say_who_window&quot;</div><div class="line">                        text who:</div><div class="line">                            id &quot;who&quot;</div><div class="line">                window at say_fade:</div><div class="line">                    id &quot;window&quot;</div><div class="line">                    has vbox:</div><div class="line">                        style &quot;say_vbox&quot;</div><div class="line">                    text what id &quot;what&quot;</div><div class="line">                    </div><div class="line">        # 如果存在侧边图，将其显示于文字上方。</div><div class="line">        if side_image:</div><div class="line">            add side_image</div><div class="line">        else:</div><div class="line">            add SideImage() xalign 0.0 yalign 1.0</div><div class="line"></div><div class="line">    screen input(prompt):</div><div class="line">        style_prefix &quot;input&quot;</div><div class="line">        window at say_fade:</div><div class="line"></div><div class="line">            vbox:</div><div class="line">                xpos gui.text_xpos</div><div class="line">                xanchor gui.text_xalign</div><div class="line">                ypos gui.text_ypos</div><div class="line"></div><div class="line">                text prompt style &quot;input_prompt&quot;</div><div class="line">                input id &quot;input&quot;</div></pre></td></tr></table></figure></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[孔子·论道·弟子篇]]></title>
+      <url>http://yoursite.com/2016/lunyu/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>从我于陈蔡者，皆不及门也。德行：颜渊、闵子骞、冉伯牛、仲弓；<br>言语：宰我、子贡；政事：冉有、季路；文学：子游、子夏。<br>——《论语·先进》(11:2)</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="论语"><a href="#论语" class="headerlink" title="论语"></a>论语</h3><h4 id="颜回"><a href="#颜回" class="headerlink" title="颜回"></a>颜回</h4><ul>
+<li>2:9<br>子曰：吾与回言终日，不违如愚，退而省其私，亦足以发。回也不愚。</li>
+<li>5:8<br>子谓子贡曰：“汝与回也孰愈？”对曰：“赐也何敢望回。回也闻一以知十，赐也闻一以知二。”子曰：“弗如也。吾与汝弗如也。”</li>
+<li>5:26<br>颜渊季路侍，子曰：“盍各言尔志？”子路曰：“愿车马，衣轻裘，与朋友共，敝之而无憾。”颜渊曰：“愿无伐善，无施劳。”子路曰：“愿闻子之志。”子曰：“老者安之，朋友信之，少者怀之。”</li>
+<li>6:2<br>公问：“弟子孰为好学？”孔子对曰：“有颜回者好学，不迁怒，不贰过，不幸短命死矣！今也则亡，未闻好学者也。”</li>
+<li>6:5<br>子曰：“回也其心三月不违仁，其余则日月至焉而已矣。”</li>
+<li>6:9<br>子曰：“贤哉回也！一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤在回也！”</li>
+<li>7:10<br>子谓颜渊曰：“用之则行，舍之则藏，唯我与尔有是夫。”子路曰：“子行三军，则谁与？”子曰：“暴虎冯河，死而无悔者，吾不与也。必也临事而惧，好谋而成者也。”</li>
+<li>9:10<br>颜渊喟然叹曰：“仰之弥高，钻之弥坚，瞻之在前，忽焉在后。夫子循循然善诱人，博我以文，约我以礼。欲罢不能，既竭吾才，如有所立卓尔。遂欲从之，末由也已。”</li>
+<li>9:19:20<br>子曰：“语之而不惰者，其回也。”<br>子谓颜渊曰：“惜乎！吾见其进也，未见其止也。”</li>
+<li>11:3<br>子曰：“回也，非助我者也。于吾言无所不说。”</li>
+<li>11:6:10<br>颜渊死，颜路请子之车以为之椁。子曰：“才不才，亦各言其子也。鲤也死，有棺而无椁。吾不徒行以为之椁。以吾从大夫之后，不可徒行也。”<br>颜渊死，子曰：“噫！天丧予！天丧予！”<br>颜渊死，子哭之恸。从者曰：“子恸矣。”曰：“有恸乎？非夫人之为恸而谁为？”<br>颜渊死，门人欲厚葬之。子曰：“不可。”门人厚葬之。子曰：“回也视予犹父也，予不得视犹子也。非我也，夫二三子也。”</li>
+<li>11:18<br>子曰：“回也其庶乎。屡空。赐不受命，而货殖焉，亿则屡中。”</li>
+<li>11:22<br>子畏于匡，颜渊后。子曰：“吾以汝为死矣。”曰：“子在，回何敢死？”</li>
+<li>12:1<br>颜渊问仁。子曰：“克己复礼为仁。一日克己复礼，天下归仁焉。为仁由己，而由人乎哉？”颜渊曰：“请问其目。”子曰：“非礼勿视，非礼勿听，非礼勿言，非礼勿动。”颜渊曰：“回虽不敏，请事斯语矣。”</li>
+<li>15:10<br>颜渊问为邦。子曰：“行夏之时，乘殷之辂，服周之冕，乐则韶舞。放郑声，远佞人。郑声淫，佞人殆。”</li>
+</ul>
+<h4 id="闵损"><a href="#闵损" class="headerlink" title="闵损"></a>闵损</h4><ul>
+<li>6:7<br>季氏使闵子骞为费宰。闵子骞曰：“善为我辞焉。如有复我者，则吾必在汶上矣。”</li>
+<li>11:4<br>子曰：“孝哉，闵子骞。人不间于其父母昆弟之言。”</li>
+<li>11:12:13<br>闵子伺侧，唁唁如也。子路，行行如也。冉有、子贡，侃侃如也。子乐：“若由也，不得其死然。”<br>鲁人为长府，闵子骞曰：“仍旧贯，如之何？何必改作。”子曰：“夫人不言，言必有中。”</li>
+</ul>
+<h4 id="冉耕"><a href="#冉耕" class="headerlink" title="冉耕"></a>冉耕</h4><ul>
+<li>6:8<br>伯牛有疾，子问之，至牖执其手，曰：“命矣夫！斯人也，而有斯疾也！斯人也，而有斯疾也！”</li>
+</ul>
+<h4 id="冉雍"><a href="#冉雍" class="headerlink" title="冉雍"></a>冉雍</h4><ul>
+<li>5:4<br>或曰：“雍也仁而不佞。”子曰：“焉用佞。御人以口给，屡憎于人，不知其仁。焉用佞？”</li>
+<li>6:1<br>子曰：“雍也可使南面。”仲弓问子桑伯。子曰：“可也简。”仲弓曰：“居敬而行简，以临其民，不亦可乎？居简而行简，无乃太简乎？”子曰：“雍之言然。”</li>
+<li>6:4<br>子谓仲弓曰：“犁牛之子锌且角，虽欲勿用，山川其舍诸？”</li>
+<li>12:2<br>仲弓问仁。子曰：“出门如见大宾，使民如承大祭，己所不欲，勿施于人，在邦无怨，在家无怨。”仲弓曰：“雍虽不敏，请事斯语矣。”</li>
+<li>13:2<br>仲弓为季氏宰，问政。子曰：“先有司，赦小过，举贤才。”曰：“焉知贤才而举之？”曰：“举尔所知，尔所不知，人其舍诸？”</li>
+</ul>
+<h4 id="冉求"><a href="#冉求" class="headerlink" title="冉求"></a>冉求</h4><ul>
+<li>3:6<br>季氏旅于泰山。子谓冉有曰：“汝弗能救与？”对曰：“不能。”子曰：“呜呼！曾谓泰山，不若林放乎！”</li>
+<li>6:3<br>子华使于齐，冉子为其母请粟。子曰：“与之釜。”请益。曰：“与之庚。”冉子于其粟五秉，子曰：“赤之适齐也，乘肥马，衣轻裘。吾闻之也，君子周急不继富。”原思为之宰，与之粟九百，辞。子曰：“毋以与尔邻里乡党乎？”</li>
+<li>6:10<br>冉求曰：“非不说子之道，力不足也。”子曰：“力不足者，中道而废。今汝画。”</li>
+<li>7:14<br>冉有曰：“夫子为卫君乎？”子贡曰：“诺，吾将问之。”入曰：“伯夷叔齐，何人也？”曰：“古之贤人也。”曰：“怨乎？”曰：“求仁而得仁，又何怨？”出曰：“夫子不为也。”</li>
+<li>11:12<br>(见上)</li>
+<li>11:21<br>子路问：“闻斯行诸？”子曰：“有父兄在，如之何闻斯行之？”冉有问：“闻斯行诸？”子曰：“闻斯行之。”公西华曰：“由也问闻斯行诸，子曰有父兄在。求也问闻斯行诸，子曰闻斯行之。赤也惑，敢问。”子曰：“求也退，故进之；由也兼人，故退之。”</li>
+<li>11:23<br>季子然问：“仲由、冉求，可谓大臣与？”子曰：“吾以子为异之问，曾由与求之问。所谓大臣者，以道事君，不可则止。今由与求也，可谓具臣矣。”曰：“然则从之者与？”子曰：“弑父与君，亦不从也。”</li>
+<li>11:25<br>子路、曾皙、冉有、公西华伺坐，子曰：“以吾一日长乎尔，毋吾以也。居则曰：不吾知也。如或知尔，则何以哉？”子路率尔对曰：“千乘之国，摄乎大国之间，加之以师旅，因之以饥馑，由也为之，比及三年，可使有勇，且知方也。”夫子哂之：“求，尔何如？”对曰：“方六七十，如五六十，求也为之，比及三年，可使足民。如其礼乐，以俟君子。”“赤，尔何如？”对曰：“非曰能之，愿学焉。宗庙之事，如会同，端章甫，愿为小相焉。”“点，尔何如？”鼓瑟希，铿尔，舍瑟而作，对曰：“异乎三子者之撰。”子曰：“何伤乎？亦各言其志也。”曰：“暮春者，春服既成，冠者五六人，童子六七人，浴乎沂，风乎舞雩，咏而归。”夫子喟然叹曰：“吾与点也。”三子者出，曾皙后，曾皙曰：“夫三子者之言何如？”子曰：“亦各言其志也已矣。”曰：“夫子何哂由也？”曰：“为国以礼。其言不让，是故哂之。”“唯求则非邦也与？”“安见方六七十如五六十而非邦也者？”“唯赤则非邦也与？”“宗庙会同，非诸侯而何？赤也为之小，孰能为之大！”</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一号学习栈]]></title>
+      <url>http://yoursite.com/2016/ls01/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>所谓学习栈，就是一个积压的学习列表，用于羞辱未来庸碌无成的自己。</p>
+</blockquote>
+<ul>
+<li><a href="https://link.zhihu.com/?target=https%3A//github.com/zlotus/notes-linear-algebra" target="_blank" rel="external">GitHub - zlotus/notes-linear-algebra: 线性代数笔记</a></li>
+<li><a href="https://link.zhihu.com/?target=https%3A//github.com/zlotus/notes-LSJU-machine-learning" target="_blank" rel="external">GitHub - zlotus/notes-LSJU-machine-learning: 机器学习笔记</a></li>
+<li>Hackerrank/leetcode 刷题</li>
+<li>神秘的五行——五行学研究</li>
+<li>The Nature of Code</li>
+<li>Designing Games: A Guide to Engineering Experiences</li>
+<li><a href="http://blog.csdn.net/fish0058/article/details/19756845" target="_blank" rel="external">Deep Learning（深度学习）学习笔记整理系列</a></li>
+<li><a href="https://github.com/ty4z2008/Qix/blob/master/dl.md" target="_blank" rel="external">机器学习(Machine Learning)&amp;深度学习(Deep Learning)资料</a><a id="more"></a>
+</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[作为幽灵的角色意志]]></title>
+      <url>http://yoursite.com/2016/2016-10-17/</url>
+      <content type="html"><![CDATA[<p>本文落笔仓促，灵感来自一次课堂讨论。讨论对象是巴尔扎克的《欧也妮·葛朗台》，人间喜剧系列中的短篇故事。这个故事的一个独特之处，在于女主人公的形象塑造。<br>女主角欧也妮·葛朗台固然在标题中理直气壮留名，其父——著名吝啬鬼葛朗台——无疑更为抢镜，也给人留下更深刻的印象。欧也妮的形象如同吸水纸上的墨迹，或是舞台背后的幽灵，是在不经意间滑进读者视线的。<br><a id="more"></a><br>首先值得注意的是巴尔扎克的叙事手法。文中时刻有一个“隐形旁白”，向读者讲述一个非上帝视角不能知 的故事，一会儿钻进这个人物的头脑，一会儿越过那个角色的肩头，对其品头论足，或是解说其行为。这道目光一开始并未在欧也妮身上多做停驻。作为一个乡下吝啬鬼的女儿，她在宗教的洗礼和物质的严苛下如同格格不入的空白，她的身体里一片空虚，她不占位置，没有欲望，仅有简单的快乐。女主角是一个空符号，void，null，多么不同寻常！<br>我们不妨把这个角色看作幽灵，徘徊在舞台边缘，等待作者的火炬照亮其内心。<br>这一刻发生在表弟夏尔初造访索缪时，我们终于看到了欧也妮的心理活动——她盘算着怎么为这天仙般的表弟创造舒适的生活环境，并且立刻付诸行动，奔上奔下，无视父亲设下的种种禁令。巴尔扎克在此处有一警句：<br><blockquote class="blockquote-center"><p>Il lui avait plus surgi d’idées en un quart d’heure<br>qu’elle n’en avait eu depuis qu’elle était au monde.<br>这一刻钟内涌上心头的主意之多，超过她出世以来有过的全部主意的总和。</p>
+</blockquote><br>他承认了——欧也妮这个角色的过去，于他是一片空白，而且是一片刻意的空白。她是在这个晚上出生的，在这个晚上被赋予了人格，鲜活起来，有了爱情导致的种种忧思、幸福、痛苦和眼泪。从这一刻开始，巴尔扎克才算真正为女主角立传。<br>之前提到欧也妮，不过是从旁人的角度，现在，叙述的声音和审视的目光正式代表了欧也妮。<br>再看看欧也妮何时从这方舞台上淡去——并不难确定，正在她收到夏尔的信，得知他结婚这一残酷事实的一刻。慢慢地，她的行动中不再带有复杂的心理变化，我们也不再需要知道，因为她再度心如死灰、枯槁下去，淡入了人世生活的背景板。<br>最后描写欧也妮的几段中，叙述者称其为德·蓬丰太太。<br>关于这位女主人公，还有许多值得研究的地方，包括其“不抗争”的矛盾：终其一生，她做了自己父母的忠实女儿，在高塔上俯瞰尘嚣的金钱社会。欧也妮的影像延续了“被囚禁的高塔公主”这一传统符号，她的父亲和北欧史诗中的巨龙如出一辙，但故事中早已没有英雄，故而公主终老于塔顶。此处不考虑象征意义或心理分析，而仅探讨她在作者叙事结构中所占的位置。这样一篇小说的主角，通过显现自己的独立人格而登上舞台，进入叙述声音的注意圈，又通过交付自己的主动性而淡出读者视野，本身是一种值得注意的手法。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[小径汇集：多视点叙事游戏的可能性]]></title>
+      <url>http://yoursite.com/2016/2016-10-12/</url>
+      <content type="html"><![CDATA[<p>前几天，和《家族史》的开发者 bubush 大神在费城华埠见了面，最后临别时，谈到一个游戏中多视点叙事的问题：如果要用所有的人物视角通关同样的主线，玩家是否会丧失兴趣？<br>（她提供的例子是，某多人创作的文字游戏，各线路都由其作者独立撰写，但分享同一个世界观和历史。）<br>实际上这个问题应该分成三点：</p>
+<ul>
+<li>多周目主线，如何才能提供新鲜感？</li>
+<li>怎么才能不剧透？</li>
+<li>如果各条线间联系很少，又怎么保证玩家兴趣？</li>
+</ul>
+<a id="more"></a>
+<p>我当时给出了一个解决方案，那就是逐步解锁新人物，并且在新视点中给出进阶的信息。<br>回过头来想想，这样的结构岂不是和文字游戏的经典结构有异曲同工之妙？在这里，视点的选择成了树形的，可以被作者控制。作者对于玩家获得的的“知识”了如指掌，可以简单地预知玩家在每一个节点处，经历过哪些视角。<br>事实上《家族史》本身也有这样的特点。玩家扮演家族中每一代成员中的一个，因而造成了海量的分支。而由于每个 pov 覆盖的年代都不同，可以保证主线的新鲜感。</p>
+<p>再研究 pov 叙事，我想这个问题中的三个方面，并不全需要答案。以著名的 RPG《废都物语》为例，游戏一共四周目，但由于丰富的玩法、元素设置和新内容的解锁，每一周目都给玩家带来绝对不同的体验。毋需考虑故事的重复。<br>另外，玩家为什么不能只体验若干 pov？毕竟 pov 设置和文字恋爱游戏的分支线路有许多共性。如果玩家不喜欢某个角色，可以选择不走那条线路。不过孤立式的设计其实并不多，大部分游戏选择把信息散布在各个线路中，要求玩家通关全部线路来获得完整的体验。这种设计背后的思路是，内容制作者不想”浪费“叙事结构中的任何一个角落。它有一个单一的故事内核，有指定的剥开内核方式。</p>
+<p>到这里，我们发现，经典文字游戏的视点、路线等叙事设计都是围绕要传达的信息展开（老生常谈！）。作者通过精心安排信息的展示方式，吸引玩家探索<strong>全部内容</strong>。</p>
+<p>但是玩家真的有必要得知游戏世界中的全部信息吗？<br>譬如，在 RPG 类型的游戏中，有些玩家可能不会尝试法师之外的任何职业，却仍然做完所有任务、通关主线。其中主线的内容是共有的，职业的区别是一种细微而次要的体验。<br>文字游戏的 pov 也可以采取这种设计方式。很多游戏允许玩家选择出身背景，在我看来就是一种轻度 pov。同样，可以允许玩家以不同身份进入游戏世界、通过悬殊的经历，获得完全相同的信息。玩家选择多周目与否，实际上取决于自身兴趣，并不妨碍”完整体验“。<br>我之前的提议，某种程度上便是去除了一种体验的”完整性“，来交换玩家的游戏时长。</p>
+<p>另一个诠释角度则是，把 pov 看作收集要素，就像《以撒的结合》中获得成就解锁初始角色一样。这里就牵涉到了文本的碎片化。《偶像梦幻祭》中，卡牌自带的特殊故事要用资源解锁，正是一种”文本收集“的尝试。《废都物语》的 folklore 系统也是一例。在这些设计中，信息被量化了，玩家获得了一把随时访问自己游戏经历的”钥匙“，就像经典的”结局回放“系统一样，现在游戏中的每个瞬间都可以重放，剧情正式成为了一种虚拟财富——正如现下互联网的潮流一样，任何文本碎片和思想断章都是溪水中闪光的金粒。<br>又想起博尔赫斯写到过的《四月三月》，一本虚构的实验性小说，剧情的推进实质上是向过去寻找答案。一个结果可以有好几个原因，是小径汇集的花园。一个故事可以用好几副不同的面貌经历。主线一致，视角不同。继记忆之后，形形色色的面貌和身份也可以加入肯德基豪华收集套餐了。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://yoursite.com/2016/luo-ying-he/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>香流不息珊瑚泽。红是花之德。屐声微杂落花声。今夕鲤鱼衔上八重樱。<br>风吹毕竟愁成海。松月随年改。却疑遭际未全真。又向永无穷处种来因。<br><strong>《虞美人·落樱河》——石任之</strong></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[语音学复习笔记：使用 Praat 估计发声腔道长度]]></title>
+      <url>http://yoursite.com/2016/2016-10-07/</url>
+      <content type="html"><![CDATA[<ul>
+<li>目标：估计自己发声腔道的长度</li>
+<li>工具：<a href="http://www.fon.hum.uva.nl/praat/" target="_blank" rel="external">Praat</a></li>
+<li>理论依据：声管模型。该模型将人的发声腔道抽象为具有几个区域的声管，从而研究共振峰的分布。<a id="more"></a>
+</li>
+</ul>
+<h3 id="理论简介"><a href="#理论简介" class="headerlink" title="理论简介"></a>理论简介</h3><ol>
+<li>共振峰：各部分腔道气流共振产生的频率，在声谱图上显示为黑色的长条。用 F 表示。F1 代表从下往上数的第一条黑带，以此类推。</li>
+<li>F1 代表后腔的共振频率，F2代表前腔，F3代表更前方的腔体（圆唇或卷舌造成的）。气流不受阻碍的情况下，发出的声音称为 modal sound ，即[ə]。它也位于元音梯形的中间位置。</li>
+<li>成年男性的声管理论长度是17.5cm，在此模型下，[ə]的 F1 = 500Hz, F2 = 1500Hz, F3 = 2500Hz，遵循公式第 n 个共振峰的频率 F(n) = (2n − 1)s/4L。因而，我们可以推出 L = (2n - 1)s/F(n)。其中 s 为声速。</li>
+</ol>
+<h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><h4 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h4><ol>
+<li>从官网下载 Praat。</li>
+<li>打开后，点击 <code>New -&gt; record mono</code>，录制声音。录制完成，点击 <code>save to list</code>保存。</li>
+<li>在列表界面选中录音，点击右侧 <code>view and edit</code> ，即可查看波形图和声谱图。</li>
+<li>上方菜单选择 <code>Formant -&gt; show formants</code> ，可以看到由红线标出的共振峰。</li>
+<li>用鼠标选取需要的部分，点击左下方 <code>sel</code> 可以放大查看。点击图谱下灰绿的长条可以播放该部分声音。</li>
+<li>选中区域，点击上方菜单的 <code>Query -&gt; Get selection length</code> ，可读出该区域长度。</li>
+<li>上方菜单选择 <code>Formant -&gt; Get first formant</code> 或按 <code>F1</code> 可获得第一共振峰频率。以此类推，可以读取1-4共振峰的频率。</li>
+</ol>
+<h4 id="录制声音"><a href="#录制声音" class="headerlink" title="录制声音"></a>录制声音</h4><p>打开 Praat，录制几个[ə]开头、[æ]开头的单词，查看声谱图，找到其中 F1，F2，F3 间空隙最近似的录音，记录数据，取平均值。</p>
+<h4 id="计算"><a href="#计算" class="headerlink" title="计算"></a>计算</h4><p>根据以上理论，分别对 F1，F2，F3 进行运算，测得三个声管长度，并取平均值。</p>
+<h3 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h3><ol>
+<li>数据是否符合理论？注意女性发声腔道普遍比男性的短。</li>
+<li>如果不符合，可能是什么原因造成的？</li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://yoursite.com/2016/sui-ji-ji/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>御殿秋光染，推门还复掩。<br>沉香烬瑞炉，朱色污圈点。<br>帐落绝龙吟，月升凉凤簟。<br>低声约来世，还向人间贬。</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[古典晚期三问]]></title>
+      <url>http://yoursite.com/2016/3-questions-for-late-antiquity/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>为历史课复习。</p>
+</blockquote>
+<h3 id="第一问"><a href="#第一问" class="headerlink" title="第一问"></a>第一问</h3><blockquote class="blockquote-center"><p>在奥古斯都和他的继任者们的统治下，广大帝国的政治、经济、智识资源全部集中在罗马城以及环地中海的各城邦内。由于古典晚期的社会转型，这些资源分散到了各地，但罗马仍然是象征意义上的文化中心。从2世纪到9世纪，罗马的图景有了怎样的转变？</p>
+</blockquote>
+<a id="more"></a>
+<h4 id="综述"><a href="#综述" class="headerlink" title="综述"></a>综述</h4><p>2世纪的罗马和帝国初建时已经有了很大不同。皇帝几乎迈入神坛。4-5世纪，罗马迈入军政，皇帝离开城市，驻守边疆。此时，军事上的高开销使罗马的元老阶级、骑士阶级叫苦不迭，离开自己的岗位，归乡成为乡绅。Huns 和 Visigoth 的入侵反而没有造成太大的恐慌，因为罗马人已经惯于和他们打交道，所采取的方法便是“驯化”和“雇佣”<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>。<br>另一方面，基督教先是给皇帝的统治提供了一个统一的图景<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>，又为受边境野蛮人骚扰的罗马居民提供精神慰藉<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>。罗马渐渐向东（希腊世界）转移的过程中，皇帝的神圣化起了很大作用。</p>
+<h4 id="大一统的帝国"><a href="#大一统的帝国" class="headerlink" title="大一统的帝国"></a>大一统的帝国</h4><p>Constantine II 是一个很好的基督教皇帝的例子。</p>
+<h4 id="碎片化的帝国"><a href="#碎片化的帝国" class="headerlink" title="碎片化的帝国"></a>碎片化的帝国</h4><p>官吏不能承受收税的艰难任务。边境的农民起义，”上等人“回到他们的家乡，缩进庄园碉堡的二层，雇佣西哥特人做保镖，镇压农民或击退其他野蛮人。</p>
+<h4 id="另一个大一统帝国"><a href="#另一个大一统帝国" class="headerlink" title="另一个大一统帝国"></a>另一个大一统帝国</h4><p>査士丁尼的帝国。在君士坦丁的一幅著名画像中，皇帝由僧侣环绕，头上显现神圣光辉。这是个政教紧密结合的新罗马帝国。<br>由于基督教的 “Universality” 特质，统一地中海帝国的图景时刻萦绕着査士丁尼的心灵。如果不是因为那场著名瘟疫，他或许将收复帝国的国土。<br>直到公元8世纪，东罗马帝国仍然是当时罗马文化的中心。西欧的主教和君士坦丁通信，或进行神学论辩。</p>
+<h4 id="基督教的帝国"><a href="#基督教的帝国" class="headerlink" title="基督教的帝国"></a>基督教的帝国</h4><p>基督教的历史观抹消了罗马的独特性。Augustine 的著名观点：”Rome is not necessarily Christian.” 对他来说，唯一重要的是末日审判，和一个天上的帝国。上帝不只眷顾一个人民。每个历史阶段，上帝在地上的选民都不同。</p>
+<h4 id="”神圣罗马“"><a href="#”神圣罗马“" class="headerlink" title="”神圣罗马“"></a>”神圣罗马“</h4><p>9世纪，查理曼成为了罗马皇帝。东罗马帝国朝野震动，纷纷反对。<br>至此，神圣罗马帝国可以看做古典罗马和蛮族文化结合后的嬗变。它有着世袭制的皇帝，为贵族封土进爵。法典等书面典章也已形成。</p>
+<h3 id="第二问"><a href="#第二问" class="headerlink" title="第二问"></a>第二问</h3><blockquote class="blockquote-center"><p>北欧社会动荡不安，频遭暴力袭扰，但它的文化不仅延续下来，还在中世纪早期占了重要的一席。试问，北方的主教、圣徒以及“蛮族”是如何应对他们社会中潜藏的暴力隐患的？</p>
+</blockquote>
+<h4 id="综述-1"><a href="#综述-1" class="headerlink" title="综述"></a>综述</h4><p>中世纪早期，北方各氏族组成的社会完全依赖血缘、世仇、国王的蜜酒厅宴会等个体之间的关系，历史记忆完全依赖于国王和吟游诗人记载的口传材料。由于法律、制度和市场的缺失，以及生产技术上的落后，北方蛮族主要以劫掠为生，物资以战利品的形式从罗马流入，并在各部落间流动。在这个阶段，流血的战争并不被提倡。<br>5世纪的瘟疫使罗马帝国四境荒凉，到处析骸以爨。而北方人由于聚居点稀疏，反而逃过一劫，人口平衡被打破，围绕耕地和资源的争夺更为激烈，从而有了暴力的肇端。<br>此时，罗马已经成为北方境内疏离的几座城镇，由当地乡绅和元老家族出身的主教维持秩序。</p>
+<h4 id="主教的武器"><a href="#主教的武器" class="headerlink" title="主教的武器"></a>主教的武器</h4><p>通过宣扬“上帝的规则”，北方社会渐渐达到平衡，凝滞的财富也流向教堂资产。主教首先是地方上的权威，其次共同确认了国王的权威，同时还拥有“记录的笔”，也就是对历史有解释权。他们用奇迹和惩罚的叙事体系来记录历史，从而建立宗教的权威性，使暴力有所忌惮。教会成了一座座孤立城镇的核心，保护其人民免遭侵扰，或在横祸降临时进行赈济。<br>注意，虽然教会喜欢虔诚的国王，但他们并不希望国王成为修士——国王应该作为武士，保护其安全。<br>通过“转变”较文明的部族来对抗野蛮异教徒，是这时期基督教社会的平衡点。</p>
+<h4 id="国王的信仰"><a href="#国王的信仰" class="headerlink" title="国王的信仰"></a>国王的信仰</h4><p>基督教教义在北方有了一种功利主义的解释，即帮助国王取得战争胜利。许多国王同时崇拜自己文化中的战神。这在一定意义上保护了教会，而教会负责维持劫掠后社会的稳定。<br>通过教会的襄助，国王也更能保证自己属下及人民的忠诚。</p>
+<h4 id="圣徒的奇迹"><a href="#圣徒的奇迹" class="headerlink" title="圣徒的奇迹"></a>圣徒的奇迹</h4><p>圣徒不一定是主教。他们可以是贤人，是隐居的虔诚教徒。在死后，他们的尸骸作为另一种流通的珍宝，起到震慑的作用，也使人趋之若鹜。<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup><br>在 Gregory of Tours 的世界中，圣徒是天上世界存在的明证。宗教意义上的善恶都有报偿。</p>
+<h3 id="第三问"><a href="#第三问" class="headerlink" title="第三问"></a>第三问</h3><blockquote class="blockquote-center"><p>当基督教在北欧生根发芽时，它面临一个和它的发源地——地中海——截然不同的世界。试讨论基督教在5世纪到8世纪间如何改变了北方社会。</p>
+</blockquote>
+<h4 id="综述-2"><a href="#综述-2" class="headerlink" title="综述"></a>综述</h4><p>5世纪末，圣帕特里克被海盗卖到爱尔兰做奴隶，在那里散播了基督教的种子。来自高卢的传教士也进入不列颠，在海岛上建起修道院，形成独特的爱尔兰-不列颠经院文化。</p>
+<h4 id="修道院传统"><a href="#修道院传统" class="headerlink" title="修道院传统"></a>修道院传统</h4><p>僧侣（monk）一词无疑起源于”孤独“，而隐士（hermit）源自”沙漠“。在爱尔兰，海岛就是荒漠，而不列颠的荒野属于沼泽。<br>离群索居的基督教徒们在北方社会并不显得突兀。</p>
+<h4 id="修道院生活"><a href="#修道院生活" class="headerlink" title="修道院生活"></a>修道院生活</h4><ol>
+<li>制作手抄本，其中拉丁文的学习使僧侣继承罗马传统。</li>
+<li>集体作息、劳动，自给自足。</li>
+<li>领主将自己的儿子送到修道院，这一传统来自于北欧的养父体系——一个儿子被送到其他部族，作为侍从收养。</li>
+</ol>
+<h4 id="从屠龙到避世"><a href="#从屠龙到避世" class="headerlink" title="从屠龙到避世"></a>从屠龙到避世</h4><p>基督教和北方社会的融合还体现在，宗教生活的“魔鬼”和世俗神话的“怪物”被有机联系在一起。宗教活动从而成为了征服世界的活动。</p>
+<h4 id="新的竞争体系"><a href="#新的竞争体系" class="headerlink" title="新的竞争体系"></a>新的竞争体系</h4><p>北方的国王被要求“不落人后”，因此在面临基督教时，他们必须更加虔诚，以期获得比别人更多的恩典。<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup><br>即使如此“绝对”的血统论最终还是退出了历史舞台。基督教提供了新的解释——上帝有选民，那么凡间的君主也会失宠。在这样的暗示下，7世纪的一代代法兰克庸王模糊了国王和贵族的权力界限，直到查理·马特摆脱了宫相身份，成为新的“被选中的”国王。<br>权力最后归于血统和力量。国王被涂上圣油——这是获得“耶稣之血”的仪式。他成了基督的后代，终极统治家族的子孙。<br>（和“天子”叙事体系颇可以做一对比。）</p>
+<h4 id="前生，今生，来世"><a href="#前生，今生，来世" class="headerlink" title="前生，今生，来世"></a>前生，今生，来世</h4><p>基督教有一套完备的理论体系——这是自然宗教所望尘莫及的。因此当他们的迷思在基督教义中得到解释时，放弃之前的信仰并不会导致太多痛苦。<br>宗教把时代的概念带到了北方世界。从前，人随意地在大地上出生死去。现在，人有了过去，有了文字的传承，故事被带到一千年后。这本身就充满了无尽的诱惑。</p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">S.27, Sidonius</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">S.16a, Eusebius</span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;">S.22, Jerome</span><a href="#fnref:3" rev="footnote"> ↩</a></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">4.</span><span style="display: inline-block; vertical-align: top;">VII.31, Sergius’s finger bones</span><a href="#fnref:4" rev="footnote"> ↩</a></li><li id="fn:5"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">5.</span><span style="display: inline-block; vertical-align: top;">S.65.Ch.13, Bede on Edwin, 731 A.D.</span><a href="#fnref:5" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[语音学复习笔记：Transcription]]></title>
+      <url>http://yoursite.com/2016/2016-10-05-1/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>记录一些 Phon-Phon 课上的知识点。</p>
+</blockquote>
+<h3 id="IPA"><a href="#IPA" class="headerlink" title="IPA"></a>IPA</h3><p><strong>Q: 为什么 bilabial 和 plosive 被放在左上角？这样的排列方式说明了什么？</strong><br>A: 首先，place of articulation 从左到右逐步深入口腔，这符合 midsagittal 的排列。其次，manner of articulation 从上到下阻塞逐渐减小。<br><strong>Q: 为什么 voiceless consonants 放在每格的左侧？</strong><br>A: 从左上到右下，发音逐渐由强变弱，故而清辅音在左符合排列逻辑。<br><a id="more"></a></p>
+<h3 id="Vowel-Trapezium"><a href="#Vowel-Trapezium" class="headerlink" title="Vowel Trapezium"></a>Vowel Trapezium</h3><p><strong>Q: 为什么元音表呈现梯形？</strong><br>A: 因为在 height of tongue 较低时，frontness 也越来越不明显。(i.e. 所有低元音都比表上对应的高元音靠后)<br><strong>Q: 元音表有几个维度？</strong><br>A: 三个。元音的 height ，frontness 和 roundedness。其中圆唇的维度决定了一个元音在分栏线的左侧还是右侧。<br><strong>Q: 如何表达 diphthong ？</strong><br>A: 通过 trapezium 上的箭头。<br><strong>Q: 为何英语的 diphthong 有<code>ɑɪ</code>,<code>oʊ</code>却没有<code>ɑi</code>,<code>ou</code>？</strong><br>A: 因为双元音的结尾往往是松元音。</p>
+<h3 id="English-Transcription-Tips"><a href="#English-Transcription-Tips" class="headerlink" title="English Transcription Tips"></a>English Transcription Tips</h3><ol>
+<li>/r/音往往转写为<code>ɻ</code></li>
+<li>分隔元音的符号被称为 hiatus。e.g. <code>lɑɪ.ɪn</code></li>
+<li>连读时词尾辅音往往省为 glottal sound。</li>
+<li>/writer/ 和 /rider/ 的区别在元音：<code>ɻəɪɾɻ̩</code> 和 <code>ɻɑɪɾɻ̩</code></li>
+<li>/prays/ 中的 /r/ 已经变清辅音，写作 <code>ɻ̥</code></li>
+<li>腭化的 /l/-<code>ɫ</code></li>
+<li>实用工具：<a href="http://ipa.typeit.org/full/" target="_blank" rel="external">IPA keyboard for all languages</a></li>
+</ol>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Ren'py 掉坑记录(1)：配置第一个游戏]]></title>
+      <url>http://yoursite.com/2016/2016-10-03-2/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>毫无智慧的地精打算用 python 做文字游戏。</p>
+</blockquote>
+<h4 id="1-支持东亚语言"><a href="#1-支持东亚语言" class="headerlink" title="1. 支持东亚语言"></a>1. 支持东亚语言</h4><p>在网上搜了一堆指南都是过时的，ren’py 更新太快了，现在不需要做什么多余的配置就能支持 unicode。方法毫无悬念，在 <code>game/gui.rpy</code> 中进行如下设置：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">## The font used for in-game text. </div><div class="line">define gui.default_font = &quot;（字体名称）.ttf&quot;</div><div class="line"></div><div class="line">## The font used for character names.</div><div class="line">define gui.name_font = &quot;（字体名称）.ttf&quot;</div><div class="line"></div><div class="line">## The font used for out-of-game text.</div><div class="line">define gui.interface_font = &quot;（字体名称）.ttf&quot;</div></pre></td></tr></table></figure></p>
+<p>我用的是 Zpix 的个人版。这是一个让人感动到哭的像素字体，作者 github：<a href="https://github.com/SolidZORO/zpix-pixel-font" target="_blank" rel="external">Zpix-SolidZORO</a>。多作品商业版也才3000块，良心啊。</p>
+<a id="more"></a>
+<h4 id="2-跳转到变量指定的标签"><a href="#2-跳转到变量指定的标签" class="headerlink" title="2. 跳转到变量指定的标签"></a>2. 跳转到变量指定的标签</h4><p>把标题翻译成人话，就是这么个需求：假如你的游戏场景在一个罗马广场，广场分成 A-H 区，有编号 a-l 的人物在里面游荡。那么，和不同人对话时，如何方便地根据当前区域 id 和人物 id，跳转到名叫 <code>dialogue-&lt;area&gt;-&lt;char&gt;</code> 的剧情标签？<br>范例代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"># 设置控制跳转的 string</div><div class="line">$ flow = &quot;hub&quot;</div><div class="line"># 设置 string 中的变量</div><div class="line">$ ch = 0</div><div class="line">e &quot;选择跳转&quot;</div><div class="line">menu:</div><div class="line">    &quot;跳转到1&quot;:</div><div class="line">        $ ch = 1</div><div class="line">    &quot;跳转到2&quot;:</div><div class="line">        $ ch = 2</div><div class="line">#跳转到 flow 指定的标签</div><div class="line">jump expression flow + &quot;%d&quot; % ch</div><div class="line">label hub1:</div><div class="line">    &quot;这里是 hub1&quot;</div><div class="line">    jump ending</div><div class="line">label hub2:</div><div class="line">    &quot;这里是 hub2&quot;</div><div class="line">    jump ending</div><div class="line">label ending:</div><div class="line">    &quot;结束。&quot;</div></pre></td></tr></table></figure></p>
+<h4 id="3-画面性能和有关分辨率的天坑"><a href="#3-画面性能和有关分辨率的天坑" class="headerlink" title="3. 画面性能和有关分辨率的天坑"></a>3. 画面性能和有关分辨率的天坑</h4><p>这点目前还没搞明白。总之在 <code>game/gui.rpy</code> 的第一个区块里，设置分辨率似乎有两种方法：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">## Calling gui.init resets the styles to sensible default values, and sets the</div><div class="line">## width and height of the game.</div><div class="line">init python:</div><div class="line">    config.screen_width = 960</div><div class="line">    config.screen_height = 540</div><div class="line">    gui.init(960, 540)</div></pre></td></tr></table></figure></p>
+<p>其中 <code>gui.init(w,h)</code> 只修改了窗口缩放的大小，而 <code>config</code> 设置画布大小。<br>区别在 retina 屏上不是很明显，但据说在别的机器上比较坑。 </p>
+<h4 id="4-让人气到喷火的坑：没有块注释"><a href="#4-让人气到喷火的坑：没有块注释" class="headerlink" title="4. 让人气到喷火的坑：没有块注释"></a>4. 让人气到喷火的坑：没有块注释</h4><p>如字面意思。</p>
+<h4 id="5-奇技淫巧之发光字"><a href="#5-奇技淫巧之发光字" class="headerlink" title="5. 奇技淫巧之发光字"></a>5. 奇技淫巧之发光字</h4><p>在文字上加多层描边，宽度和 alpha 逐层递减。可以做出极度精神污染的鬼畜效果。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[游戏设计随想：Das Daema]]></title>
+      <url>http://yoursite.com/2016/2016-10-03-3/</url>
+      <content type="html"><![CDATA[<h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>故事发生在未来的纯白都市pants中，城市中心有一座孤高的污水塔。<br>这座污水塔中每月循环抽出红色污水，是城市罪恶的精华，但也是孕育生命的源泉。<br>但有一天该塔被炼狱的魔女CELOU占领，她放出无数名为DAEMA的生物，该生物是具有生命的污水，一时间它们遍布了塔的每一个角落。<br>主人公：少女SOPHIE WHISPER 苏菲·轻语被委派打败DAEMA，防止纯白的都市被玷污。<br>3D魔塔类，含射击元素。塔一共七层，分日夜模式<br>主角攻击DAEMA的方法：发射纯白的瞬吸子弹，把DAEMA以超高压缩比吸进弹壳中。<br>血条为白色，一端逐渐被染红，全红则game over<br>……说到底，这是个普及生理卫生知识的小游戏。<br><a id="more"></a></p>
+<h3 id="详细敌人列表"><a href="#详细敌人列表" class="headerlink" title="详细敌人列表"></a>详细敌人列表</h3><p>初期DAEMA 液态、半流态、凝结态<br>中期DAEMA 比初期略难<br>疯狂DAEMA 中号 大号<br>末期DAEMA 淡红色 全隐形<br>另夜间模式无法更换武器or填充子弹</p>
+<h3 id="可获得道具"><a href="#可获得道具" class="headerlink" title="可获得道具"></a>可获得道具</h3><p>PAMPERS   无敌5秒<br>HOT TEA   防御力上升15秒<br>FREEZY！   防御力下降5秒，速度下降10秒<br>BROWN SUGAR   HP+5%-20%不等<br>BLUE SODA   HP+50%</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[游戏设计随想：你不存在]]></title>
+      <url>http://yoursite.com/2016/2016-10-03/</url>
+      <content type="html"><![CDATA[<p>最近是期中考试周，累积到现在还有5个作业要交，昨天刚刚通宵搞定一个大作文，所以本来准备好题目的三篇文章也没有写。此处仅仅草率记录一下最近的一个（不算很有新意的）有文化 crossover 和 meta 元素的脑洞。</p>
+<a id="more"></a>
+<p>故事是这么开始的：在一个未来 ugc 游戏平台上，玩家操控的角色作为一个古风武侠玛丽苏游戏的男主角存在着。他的生活主要靠人气延续。然而有一天，当他醒来，却发现自己的立绘不见了，身处一片黑暗。<br>“我怎么了？我长什么样？我在哪里？”<br>游戏的第一阶段，初步定为通过 DOS 命令行从回收站恢复自己的立绘。<br>玩家得到了一系列可以使用的命令，并通过命令组合来打败这个充满恶意的世界中的敌人，获得更多命令。这个阶段，他渐渐了解到自己在人气榜上的排名一夜暴跌，以至于被作者移除。有关自己的剧情已经被修改。<br>最后，他在回收站捡起了自己过去的形象。该场景仍然从《环形废墟》中汲取灵感。“你注视着自己的幻影。”<br>主角意识到进入回收站是一个陷阱，是万劫不复的道路，因为命令已经用光，他不能再 cd 出去了。下一次作者杀毒的日子就是他的死期。在这自我毁灭的悲剧高潮处，一个未知身份的人降临，带领他的灵魂（数据）离开回收站。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[番茄教派]]></title>
+      <url>http://yoursite.com/2016/2016-09-24/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>番茄教派，发源于人类内心深处对拖延的恐惧。<br>该教教徒认为 GTD 理论是使灵魂得救的真谛。<br><strong>—— 忒修斯指南</strong></p>
+</blockquote>
+<p>宗教仪式及名词包括——<br><strong>每日的连祷：</strong>一次祷告25分钟。每两次祷告之间休息5分钟，并画下一个番茄。画下四个番茄后，休息15分钟，灵魂获得拯救。<br><strong>宗教的终极作用：</strong>使人镇定，并相信自己的生活具有意义。<br><strong>圣餐礼（生产力）：</strong>在圣堂中，教众可以领到一个圣番茄，食用后会感到生产力的显著提升。试图叛离教派的教徒将永陷拖延的泥潭。<br><strong>圣物：</strong>番茄钟。<br><strong>番茄的诅咒：</strong>教徒绝望地发现，真正的拖延症是你懒得打开自己的番茄钟，从而不可避免地堕落。<br><strong>解决办法：</strong>现在，当你查看一名番茄教徒的裸体，就会发现他/她的胸腔里嵌入了一个红色塑料材质的荧光番茄钟，正在一丝不苟地滴答转动。因为这伟大圣物的存在，他们的灵魂已经和番茄同调。他们的宇宙和效率谐振，拖延的想法根本不会出现在他们明晰的头脑里。“时间由番茄构成。”他们宣称。<br>他们为终于掌控了自己、掌控了生活而志得意满。<br><a id="more"></a></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[文字游戏引擎试用心得]]></title>
+      <url>http://yoursite.com/2016/2016-09-25/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>最近，因为一些技术和个人方面的原因，必须换一个制作工具。由于我目前做的游戏还是文字类居多，开发经验也浅薄，所以首要需求是：易上手+易出原型+扩展性强+支持mac+发布平台多。基于这样的原则，试用了以下几个轻量级引擎。<br>注意，一切评价皆出于主观。</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="Ren’py"><a href="#Ren’py" class="headerlink" title="Ren’py"></a>Ren’py</h2><p>基于 python 的文字游戏引擎，在英语文化圈很流行，和 kirikiri 在国内的地位类似。</p>
+<h4 id="支持平台"><a href="#支持平台" class="headerlink" title="支持平台"></a>支持平台</h4><p>开发：win/linux/osx<br>发布：win/linux/osx/ios/android</p>
+<h4 id="上手体验"><a href="#上手体验" class="headerlink" title="上手体验"></a>上手体验</h4><p>非常简单。<br>对于接触过其他文字游戏引擎的开发者来说，除了 UI customization 不太好理解外，其他功能几乎都是直觉性的。然而一旦找到 UI 的定义文件在哪里，就很容易做出修改。<br>引擎本身带一个启动器，能调出项目的各个资料夹（虽然很不方便）。教程本身就是一个范例游戏。</p>
+<h4 id="剧本编辑"><a href="#剧本编辑" class="headerlink" title="剧本编辑"></a>剧本编辑</h4><p>单独列出这点，是为了满足我在剧情逻辑方面的特(bian)殊(tai)需求。<br>以前用过 choiceofscript，不说了，都是泪啊，满页都是 goto。作为更成熟的引擎，ren’py 拥有 call stack，而且可以简单 pass 参数，实在令人欣慰。</p>
+<h4 id="整体性"><a href="#整体性" class="headerlink" title="整体性"></a>整体性</h4><p>没有图形化界面统一管理资源，因此需要在各个资料夹之间跳来跳去……</p>
+<h4 id="亮点和弊端"><a href="#亮点和弊端" class="headerlink" title="亮点和弊端"></a>亮点和弊端</h4><p>亮点：</p>
+<ul>
+<li>ruby text! 支持在文本上方显示小字（就像日语假名标注）！可以方便地制作名词解释了。</li>
+<li>大量贴心的日式 nvl 演出，包括天气、动画等。</li>
+</ul>
+<p>弊端：</p>
+<ul>
+<li>不得不说自带界面实在太丑了，对我这种强迫症来说是灾难。</li>
+</ul>
+<h4 id="易扩展性"><a href="#易扩展性" class="headerlink" title="易扩展性"></a>易扩展性</h4><p>已经看到了国外大神做出了下列系统：</p>
+<ul>
+<li>rpg（ 战斗，装备，物品，地图……）</li>
+<li>复杂的养成</li>
+<li>tiled map（使用 viewport）</li>
+</ul>
+<p>还可以接入 live2d，可以说是很完备了。</p>
+<h4 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h4><p>官方自带详尽文档和社区。<br>另外，在 tumblr 欧美迷妹圈内很流行，因此还发掘了几个不错的素材站。<br>总体而言，宅的气息比较浓厚，和国内同人游戏圈很接近啊……</p>
+<h2 id="Fungus"><a href="#Fungus" class="headerlink" title="Fungus"></a>Fungus</h2><p>一个 unity 3d 的文字游戏插件，一度流行。基于 C#+lua，用 moonsharp 翻译。</p>
+<h4 id="支持平台-1"><a href="#支持平台-1" class="headerlink" title="支持平台"></a>支持平台</h4><p>和 unity3d 一致。</p>
+<h4 id="上手体验-1"><a href="#上手体验-1" class="headerlink" title="上手体验"></a>上手体验</h4><p>首先声明我是没用过 unity3d 的，但在强行摸索这个插件的过程中也算是懂了一点点。<br>看来 fungus 的主要贡献就是提供了简便可自定义的文字演出效果。场景逻辑包括呼出菜单全部用 flowchart 控制，而图像控制则交给了画布+摄像机。<br>在自定义方面，可以看到 console 的设置项目非常详尽，给制作者无限可能性。插入骨骼动画也不是很难。<br>由于研究不够深入，我没法描述这里面可能会出现的坑，更没法做进一步介绍。恐怕要使用这个插件做出比较精良的游戏，还是需要对 unity3d 的整体了解吧。</p>
+<h4 id="剧本编辑-1"><a href="#剧本编辑-1" class="headerlink" title="剧本编辑"></a>剧本编辑</h4><p>一切剧本逻辑都是放在 flowchart 里的，这点比 ren’py 更清晰，但缺乏层级结构。（比如，一个事件库下辖几个小事件的情况，就很难归类。）<br>另外，剧本文字可以导出为 txt，编辑后再导入。其实我不太喜欢这种方式，但总比在编辑器里制作更方便一些。</p>
+<h4 id="整体性-1"><a href="#整体性-1" class="headerlink" title="整体性"></a>整体性</h4><p>unity3d 的整体性大家都知道的，资源管理器初看杂乱，其实很方便……整体架构一目了然。很适合我这样系统、美术、剧本、数值全线开工的开发者。</p>
+<h4 id="亮点和弊端-1"><a href="#亮点和弊端-1" class="headerlink" title="亮点和弊端"></a>亮点和弊端</h4><p>弊端：</p>
+<ul>
+<li>就我自己而言，不太想为了换引擎而特意去学习 lua。</li>
+<li>流程控制有点杂乱。</li>
+</ul>
+<h4 id="易扩展性-1"><a href="#易扩展性-1" class="headerlink" title="易扩展性"></a>易扩展性</h4><p>这就不用说了吧，用户可以自己修改源码，或搭配其他 asset，一切只看用户的能力了。</p>
+<h4 id="社区-1"><a href="#社区-1" class="headerlink" title="社区"></a>社区</h4><p>槽点所在！<br>首先，我一直没有找到官方的在线详尽文档……<br>论坛架设在 muut 上，倒还可以一看。大部分教程却都是 youtube 视频，太不方便查找了。<br>总的来说，这是一个缺乏文档和稳定社区的贫瘠世界，大概主流用户都在 unity3d 社区里，而不是聚集于插件周围。</p>
+<h2 id="Inkle"><a href="#Inkle" class="headerlink" title="Inkle"></a>Inkle</h2><p>Sorcery, 八十天环游地球系列的开发者使用的文本工具。基于 C#，生成结果为 json 文件，提供 unity3d 套件。<br>战棋游戏 Banner Saga 的文本也是用它制作的。</p>
+<h4 id="支持平台-2"><a href="#支持平台-2" class="headerlink" title="支持平台"></a>支持平台</h4><p>和 unity3d 一致。也可以 parse 到其他工具中，或者 web 发布。</p>
+<h4 id="上手体验-amp-剧本逻辑"><a href="#上手体验-amp-剧本逻辑" class="headerlink" title="上手体验 &amp; 剧本逻辑"></a>上手体验 &amp; 剧本逻辑</h4><p>这两块难分难舍，我就放在一起写了。<br>严格来说，我觉得 inkle 算不上是个文字游戏制作工具，而更像是剧本管理器。<br>inkle 包含 ink（语言）和 inky（原生编辑器）。inky 最棒的地方是即时预览，所见即所得。左边窗格写作，右边可以直接测试，还有资源管理窗格。官方提供的语法文档虽然不多（只有1个），但基本功能都覆盖了，也很容易上手，和 markup 类语言接近，通过 label 控制流程。相比前面介绍的工具，其文本标记功能极其强大。<br>自带的效果很优雅，是我见过的最漂亮的纯文字游戏界面。另外官方还发明了一套术语，用于形容游戏流程和标记效果：</p>
+<ul>
+<li>Knot（绳结）：一小段游戏内容。</li>
+<li>Divert（变道）：从一个绳结连向另一个绳结。</li>
+<li>Glue（黏合）：去除换行符。（这个功能可以用于连接选项前后的文字。）</li>
+<li>Branching（分支）：剧情分歧。</li>
+<li>Joining（汇聚）：剧情汇合。</li>
+<li>Stitch（针脚）：绳结下的子区块，用于控制显示条件等。</li>
+<li>Sticky Choices（粘性选项）：永远固定存在的选项。一般选项默认选择后消失。</li>
+<li>Weave（编织）：在选项下写出细小的分支，而不用单独创造绳结。文档作者形容为：“编织就好像一泄如注的文本流，永远自上向下，没有复杂易错的逻辑。”</li>
+<li>Gather（收束）：把编织带来的分支收拢在一起。</li>
+<li>Node（节点）：选项内连续嵌入多个子选项时，当中的收束被称作节点。</li>
+<li>Tunnel（隧道）：可以在其他地方呼叫的子剧情。</li>
+<li>Thread（绳束）：管理大量的分支，比如在一个房间里和随机出现的人对话。<br>……</li>
+</ul>
+<p>还有些很有趣的 feature，比如：</p>
+<ul>
+<li>标签名（绳结，针脚名等）其实是 int 变量，存储了到达该剧情段的次数。因此也可以用来做 bool 判断……</li>
+<li>语料库（list）拥有四种显示模式：顺序，循环，阅后即焚和完全随机。</li>
+<li>语料库的项目可以嵌套、空白、用于选项等。</li>
+<li>大部分标签都可以起名。（包括上文提到的选项、收束。）<br>……</li>
+</ul>
+<p>光文字介绍这个特立独行的工具实在无法表达我的惊叹之情，直接截图好了：</p>
+<img src="/media/inky.png" class="full-image" alt="alt" title="inky">
+<p>上面是官方提供的打地鼠范例，可以看出，对随机语料的支持很不错。打地鼠的每个选项都是由语句碎片随机生成的。<br>然而在一时的激动过后，问题来了。作为一个纯文字游戏工具，inkle中只能插入有限的插图，且不能控制格式。其实它被设计出来的初衷，是为了导入一个更强大的引擎，而且如何在 unity 中使用的文档是开发者在一个制作组的要求下专门写的……<br>官网提供一个 demo 的下载，打开看了一下，并不复杂，效果也简单。熟悉 json parsing 的开发者可以考虑一下。<br>多说一句，我理想中的文字游戏制作工具，应该就是 ren’py 和 inkle 的结合。</p>
+<h4 id="整体性-2"><a href="#整体性-2" class="headerlink" title="整体性"></a>整体性</h4><p>专注于文本、逻辑，其他功能（几乎）没有。</p>
+<h4 id="亮点和弊端-2"><a href="#亮点和弊端-2" class="headerlink" title="亮点和弊端"></a>亮点和弊端</h4><p>亮点：</p>
+<ul>
+<li>优雅，充满情怀</li>
+<li>令人眼花缭乱的标记</li>
+<li>简单利落的编辑器和导出过程</li>
+</ul>
+<p>弊端：</p>
+<ul>
+<li>基本只适用于中高端开发</li>
+</ul>
+<h4 id="易扩展性-2"><a href="#易扩展性-2" class="headerlink" title="易扩展性"></a>易扩展性</h4><p>非常高，可以胜任任何游戏类型的文本管理。<br>与其说是 inkle 具有扩展性，还不如说具有适配性……</p>
+<h4 id="社区-2"><a href="#社区-2" class="headerlink" title="社区"></a>社区</h4><p>这个可以说是完全没有了。文档虽然详尽，只有可怜的几份，我已经翻来覆去看完。和 fungus 一样，大部分人拿来直接用于 unity 开发。Github 上搜索半天，也只有几个 repo，提供了相关 unity GUI 套件等。<br>但是如果写信给 inkle 制作组，说不定能获得一份“定制文档”呢。<br>（未完待续）</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[鼠王]]></title>
+      <url>http://yoursite.com/2016/Shu-Wang/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>此文的主题是卑鄙。一个反复被人操纵的贱民，一个反复犯罪的人躲起来不被审判的故事。</p>
+</blockquote>
+<h3 id="主线"><a href="#主线" class="headerlink" title="主线"></a>主线</h3><p>捕鼠人，孤独的地下公爵，在多年前只是前一个捕鼠人的十二个徒弟之一。他最晚拜师，因而代号就是十二。当时帝国统一了整片大陆，定都溪枕城，这座瘟疫的城市。周边许多领主密谋反叛，而捕鼠人带着徒弟们划小舟偷偷来往，为他们运送情报。<br><a id="more"></a><br>每个徒弟都是变态人物，其中尤以五为甚。五带着十二潜入溪枕城水闸，途中嘲弄地将十二的脑袋摁入污水中，直到他呛水、几乎淹死。十二受够了。<br>在被城市宪兵队追捕的时候，他举手投降，供出了老师和师兄们的藏身点。他们在几个月后全被斩首，吊成一串，像被捉住的老鼠。<br>因为这份功劳，皇帝首席术士亲切地接待了他。十二成为了新的捕鼠人，还获得了“封地”：整片溪枕城的下水道系统。<br>出于天真的感激，他向术士吐露了自己担忧养父下落的心思。于是养父被带到宫殿里幽禁，作为控制他的筹码。<br>成为地下公爵后，他仍然孤独，享受着背叛带来的折磨，同时继续老师的龌龊事业：窃听。<br>捕鼠人自己就是老鼠。<br>直到有一天，在皇宫宴会的角落里、花园黑暗的一角，他遇到了“受冷落的公主”。这位公主似乎被所有人嫌弃、孤立，虽然她十分美丽，浑身散发光辉。她被捕鼠人吓了一跳，试图避开，但捕鼠人追了上去。他陷入了爱河。“你真可爱，散发着芬芳。”他急于剖白心迹。<br>公主打了他一个耳光，流下被羞辱的眼泪。<br>后来他知道，公主是皇帝的小女儿，因为生下来就浑身散发刺鼻恶臭，成为宫廷笑柄，也被视为不祥征兆。<br>但捕鼠人的嗅觉已经被寒冷的河水毁了。对他来说，浓烈的臭气便是玫瑰香味。<br>他们之间产生了爱情。<br>（待续）</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[变形记]]></title>
+      <url>http://yoursite.com/2016/Bian-Xing-Ji/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>白五莲精疲力竭地坐在火堆边，烤着身上的寒湿。</p>
+</blockquote>
+<p>他已经在山林水泽里逃了十五天，追他们的人却轻松缀行，像是猫戏耍着老鼠。<br>忽然听到洞穴深处师父唤道：“你过来！”<br>他手脚并用，向那边摸了好几丈，方到了师父鹤童子跟前。火光太暗，隐约能看见师父憔悴的轮廓盘坐于山石。<br>白五莲没看清师父是怎么转身的，一只枯瘦的手就袭向他的面孔，五指闪电般扣住唇、鼻尖、山根、额头、太阳穴，好像一具笼头将他牢牢锁住：“把我这些年教你的几张脸，都变来我看看！”<br>白五莲惊惶地睁大了眼睛：“师父！——”<br>鹤童子淡淡掐住了话头：“不要啰嗦。”<br>白五莲闭上了嘴，心头落了一层悲凉。<br><a id="more"></a><br>他集中精神，调动脸上的皮肉。<br>假如这时有光照进来，就会映出白五莲脸上丘陵沟壑涌动，短短时间内经历了一场沧海桑田。他的脸好像泥人匠手里的泥团被肆意揉捏，鼻梁下落，嘴巴变宽，额头增广，变成一个丑陋中年人模样；紧接着鼻子聚拢了，小心地簇成一个琼脂白玉般的秀气尖尖，睫毛生长出来，嘴成了樱桃口，他成了画中的美人；美人老去，如鱼目混黄，眼角垂下、神色里带了一点泼辣和庸俗；皱纹阡陌交错、如水沟般疯长，老妪的橘皮像斧凿刀刻，眼里茫茫的白翳；青年俊秀文士，两撇不重的小胡子；枣核脸、长眉入鬓的小生；倭瓜脸、肿眼袋的老头，留了三绺须……他的脸风起云涌，像个戏台子，各路角色粉墨登场。鹤童子的手分毫不改，按在脸上那几个关键之处，偶尔皱起眉，一根指头发力：<br>“这边没变好！”<br>过了半炷香时间，戏终于散场，灯火下楼台，白五莲的五官渐渐复位，汇成了他原本的自己。此时他后背已经湿透，浑身发热、微微喘气。<br>鹤童子睁开眼无情地注视他，评价道：“还行。”<br>又说：“还需下点功夫，否则你师弟的身子可能要被你毁了。”<br>白五莲哑着嗓子，声音带着哭腔：“师父……难道非要对师弟用那个秘法吗？那可是，那是九死一生啊！”他突然扑倒在鹤童子身前，狠狠地对着山石磕头下去。头破血流的前一刻，鹤童子伸出拐杖四两拨千斤地一挑，就把他的力卸向一边去了。只听鹤童子道：“这你别管！为师只知道一件事，你师弟必须活着。你也得活着。”<br>白五莲滚在地下，听到头上师父轻轻一叹，道：<br>“这是你们俩的命。”</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[寒月厉妇：实用革命指导手册]]></title>
+      <url>http://yoursite.com/2015/Han-Yue-Li-Fu/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>本文包含严重剧透。</p>
+</blockquote>
+<p>海莱因的 The Moon is a Harsh Mistress，国内一般译为《严厉的月亮》，台版译作《怒月》——据说这位译者和出版社为译名吵翻了，原本的译名是《寒月厉妇》，将月亮和女性对举，是对书中月球社会结构的极佳隐喻。然而我以为，究其根本，书名中的 Mistress 并不只和母系大家庭的族长有关，而应更具体地指“女教师”，来自主角的一段台词：</p>
+<blockquote>
+<p>“你们称月球为监狱，我接受这个称谓，我为‘犯人’这个称呼感到骄傲，我们月球的居民是犯人和犯人的后代。但月球只是一个严厉的女教师，那些上过她课的人没有任何理由感到羞愧。”</p>
+</blockquote>
+<a id="more"></a>
+<p>21世纪的月球和18世纪的美洲一样，是一个由移民创造的世界。它是一座宽广孤寂的大监狱，一切法律都约定俗成，低重力环境对身体的改变使游子永远无法归乡。这一点在阿西莫夫的《神们自己》中也有所提到，月球人和地球人将在生理上产生隔阂。另外，月球住民靠隧道农业和采矿为生，低价运回地球，过着艰苦的殖民生活。如果熟悉美国历史，就能看出月球价值观极像独立战争前夕的美国价值观：民族尚未形成，但人心淳朴坚强。<br>背景说够了，下面是故事本身。此书的价值不囿于对月球社会的探讨，更可谓一本完备的革命宝典：从建立组织到发动斗争，一切皆有法可依，有例可循。月球独立运动组织第一支部的创立者“教授”早年便是个政治流亡者，深谙斗争之道，是主角小组的指导员。不过这场革命和近代革命最大的区别在于，主角三人开了独一无二的金手指——一台具有智能的超级计算机。<br>当然，这并不算太夸张，革命工具是必须与时俱进的，21世纪的星球级独立革命自然要用到星球级别的战略。这台计算机类似美剧《疑犯追踪》中检查犯罪可能的机器，巨细靡遗掌控全月球生活，包括通讯、财政、新闻发布、监控等领域。主角革命成功的关键，便在于和这台名叫迈克罗夫特·福尔摩斯（简称迈克）的智能电脑搞好了关系。<br>（未完）</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自高山来：一部词典式小说]]></title>
+      <url>http://yoursite.com/2015/Zi-Gao-Shan-Lai/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>这座山上的人们是山之子，是万物之初，是沙漏里正在落下的那一撮沙子。</p>
+</blockquote>
+<h3 id="巫师"><a href="#巫师" class="headerlink" title="巫师"></a>巫师</h3><p>高原高山之上岩壁黝黑，上盖亘古碧蓝的天空，下卧烟云般的荒草地。草地之外是贫瘠的石头地。<br>神庙的巫师站在一块巨石上远眺，看见大量石块、嶙峋的山峰、皱折、谷底里亮晶晶的小溪及更高处一堆积雪。再远处，平地上稀稀拉拉点缀着几群牛羊、营帐、几棵光秃的巨树（被当做旗杆）。再远处，横亘那灰黄色石头地的，像是道蜿蜒的宽阔黑河，河岸陡峭、河水汹涌地奔腾过平原，消失在群山的心脏。<br>狂风鼓动巫师的衣袍，又突然消歇下来，树叶稀里哗啦地坠落。周遭没有声音了，按理说，远处应当传来隆隆水声，然而万籁俱寂，他听不见河水的哽咽咆哮，只有积雪时不时压断树枝坠落。巫师安·海刚来时，很为这一现象感到稀奇，老是站到这块石头上眺望，思忖：“为什么呢？”那时他初来乍到，语言不通，山民警惕又胆小，只偷偷观察他的起居，没人敢靠近，没人同他说话。他便自若地在神庙里放下铺盖，烧火做饭，到外面远眺。那时他还不知自己蜗居的地方是他们的神庙。后来他终于了悟，也是瘦熊比划着告诉他，山民敬畏地以为他是神派下来住在庙里的使者，而远处的黑色裂口则根本不是昼夜不息的河流，而是一道深渊，深不见底的伤疤。<br><a id="more"></a></p>
+<h3 id="瘦熊"><a href="#瘦熊" class="headerlink" title="瘦熊"></a>瘦熊</h3><p>瘦熊是个自愿上山住到神庙里的猎人。那个暴雨倾盆的晚上，安·海瞧见他阴沉庞大的影子在山路上疾奔、在阶梯下出现，还吓了一跳。<br>待到影子靠近了，摘下连着头的熊尸斗篷，安·海才注意到他是个瘦高身材，两颊上涂了红绿黑三色油彩，没有表情，皮肤在火光映照下锃亮犹如上好的硬木，身上一股熊皮的膻气。瘦熊看也没看他一眼，走上厅堂，扔下斗篷，放下皮包袱，庄重跪下朝厅中一根粗糙的巨木柱行了一礼。假如不是他这么做了，安·海做梦也想不到这根桩子会是一尊神像。也是在后来，他才知道，这位神叫什么名字。<br>悉悉索索，瘦熊打开包袱，掏出三个暗黄的小包，从中倒出红、绿、黑粉末各一小撮——红最少，绿次之，黑色还有很多——，在神像面前摆好，又磕了个头，这才站起来。 安·海坐在大厅一角烤着火，好奇地看这头一个主动接近自己的山民。瘦熊的拜神动作很简洁，没有嘴唇翕动，仿佛漫不经心，仅出于习惯，做完了这些事就走到另一个角落坐下，收好包裹，铺一条破毛皮毯，出去了。不久湿淋淋地回来，手里有了一小捆柴。他生了火，倒头就睡下，好像背后一直盯着他的安·海不存在一样。<br>在那一刻，安·海感受到一种困惑，不知道对方要干什么。<br>但他的旅行经验毕竟是很丰富了，依然保持不合理的冷静，观察着瘦熊的背影。他回忆起自己刚来时的情形：晴空万里，天蓝得像山峰尖处，像被云抹过的明镜，兀鹰在山峰间穿梭，在空中大叫。砂砾硌人，夹在风里迎面吹来。他独自裹着一件斗篷，小心翼翼，腹里饥饿，口中干渴，抠着岩缝向下摸索，等发现了巨树枝杈掩映下有一座石头搭的院落，心中是何等的狂喜。<br>他是从山上下来的。至于他怎么会出现在峰顶，以及那之前的事，他从不透露，只隐约提起“另一个世界”。神庙是他首次发现的文明迹象，也是人烟能至的最高处。<br>他毫不客气地住下，也是因为他没能下山。第一次看见山民，是他在院子里远眺时，听到背后的响动。回头一看，只见一个老头慌忙把山羊赶下岩坡，自己正也要爬下去。老头是游牧部落的装束，虽然褶子多，身上肌肉还精健，动作也灵敏，已经忙忙地攀援到底下了。安·海弯下腰看，老头不见踪影，也许是心惊胆战地吊在岩壁凹缝里。<br>他突然意识到，这里的人虽然住在平原上，却都善爬，这让他注意起了身边。有时在晚上，他突然醒来，往窗外随手投出一块石头，树叶里就是一阵沙沙作声。幸好这些人没表现出什么敌意——当然，往坏了想，也许是还在侦查情况、打磨武器呢？安·海还发现，隔三岔五就有人上山，听脚步声，在院子里犹豫一阵子，就狐疑地走了。吃剩的骨头是安·海故意扔在那里的，也为了引他们进来打探情况。但他们都没有。<br>来的人如此之多，却从不肯进门。漫漫长日，安·海把行囊解开一部分，坐在拐角研究对面墙上的痕迹。他对山民的沉默和胆怯厌倦了，那些人一句话不讲，好像猿猴。安·海摆弄脚边空自摆动的精密仪器，它们是为记录和分析语言而设计的，只要山民说一句话，一句也好啊！他录下来，可以拿回去分析。可就连瘦熊进来祈祷，也是一声不吭。<br>这晚上，火堆劈啪作响，安·海看着瘦熊的背影。<br>瘦熊静静躺着，仿佛要睡着了，却猛地惊觉，几乎跳起来。<br>火被他带起的风扇到，光线猛地跳动，瘦熊坐在那儿，裹着那破皮毯，披着熊尸，不断喘气，四下打量，这才和巫师有了对视。<br>安·海见他眼里火光一闪，瞳孔缩了一下，知道自己的形象殊异，怪不得对方。他和这里的人长相相差太大了。他是苍白皮肤，鲜艳的金发，蓝得发紫的虹膜，身上穿一种式样简单的黑色袍子，但如今已变成带穗的破布模样。黑布里本来织着金银线，也破旧成了絮。他不知道瘦熊怎么看，只听瘦熊哑着嗓子开了口，对他说出一个词。<br>仪器兴奋地“滴”一声，指针轻巧摆动，在白纸上绘下图谱，沙漏翻转，计算单元全力运算。瘦熊转而盯着仪器看，看见仪器已经把词语转写成巫师的秘语，旁边还有一张瘦得直苗苗的棕熊的插图。瘦熊看到图就笑了，指了指自己。<br>安·海问：“瘦熊？”重复了那个词，指着对方。<br>瘦熊翻身起来，披挂上熊尸，抽出背后的弓，没上箭，对窗外的赤褐色月亮拉开比了比，然后说一个词。他坐回来，指着神像，做出拜的动作，又说了一个词。这期间，仪器不断在磁粉板上绘出图案，第一个词是猎人，第二个词直译为高山巨熊，仪器给出了解释，是一个大而混沌的晦暗形体，看不清形状，看不清过去和未来。</p>
+<h3 id="高山巨熊"><a href="#高山巨熊" class="headerlink" title="高山巨熊"></a>高山巨熊</h3><p>高山巨熊就是山民普遍信的神，也是个谜。<br>山民都很实际，拜神往往是为了现实的需要。瘦熊那天在夜里单枪只影跃上山，令安·海产生了好奇，因为瘦熊是头一个无视自己、不管不顾走进来的人。他想知道瘦熊向神求了什么。<br>但首先，他要合理解释自己的存在。为什么他是从山上下来的？为什么他突然孤零零出现在神庙，山下从没人见过？安·的解释是：我从另一个世界来。<br>高山巨熊的世界？<br>不是。<br>死人的世界？<br>不是。你猜不着的。还有，什么是高山巨熊的世界？<br>瘦熊盯着他，言简意赅地结论：那你就是高山巨熊的巫师了。巫师不解释自己是谁，从哪里来，什么话都会说，替人消灾。他突然长跪起来，又很严肃地伏下身埋下头，像是请求。<br>不等安·海问，他就说：请你允许我住在神庙。</p>
+<h3 id="神庙"><a href="#神庙" class="headerlink" title="神庙"></a>神庙</h3><p>神庙就是供奉高山巨熊的地方，一座不对称的石头院子。神像是一根经过粗粝雕刻的巨大木柱，就靠在墙边上，是近乎荒谬的不严肃。那晚上，火堆明灭，渐渐转为暗红。雨下得越发大了，空气里湿气缠绵，卷着跳动的火焰尖，叫它们难受。新加进去的树枝烧不起来，瘦熊束手无策。他转了转，后院里拿到一把斧头，当场把神像劈开，做了柴。<br>安·海被他的直率惊呆，问起来，瘦熊很平静地说，那把斧头在那里自然有道理。稍后安·海检视，发现劈开的确实是新木头，神像绝不是第一次被砍了，或许是经常被烧。<br>或许，他猜想，这个世界上的神就是从小屋里的一段柴火衍伸而来。大雨天，高山上，四面只有石头和寒气，干燥的木头难道不是神祇的化身？<br>瘦熊真的住下来。第二天早上，安·海在沉酣中感觉到有人把他抱到别处，因为没感觉到恶意，便昏昏沉沉不睁开眼睛。瘦熊一桶水把火泼灭，烟灰扑地腾起又飘落，安·海听到他转身走开。瘦熊扎了扫帚、扫了院子、打到野山羊、弄来锅碗瓢盆做饭，然后才叫他起来吃。<br>安·海最初是有些惭愧的，但见到瘦熊笃意要服侍神庙的巫师，不知其中有什么道理在，抑或一种习俗，也就接受了。瘦熊就这样长住在神庙，做杂务，也为安·海提供当地语言的语料，讲山下的事。他话不多，讲不清了，就把安·海背下山亲眼看。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[秧歌：食欲是最低卑野蛮的本能]]></title>
+      <url>http://yoursite.com/2015/Yang-Ge/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>那天晚上他吃了茶叶蛋和红枣之后，很小心的用一张纸把蛋壳和枣核包了起来。</p>
+</blockquote>
+<p>这篇小说和《赤地之恋》是一个类型，且阅读在先，所以也拿出来写。最开始知道有这篇小说，是张爱玲随笔集里写到她寄了一本给胡适，胡适赞“平淡而近自然”，尤其欣赏吃麻饼和棉袄那两段。我好奇的是，为何一个“吃麻饼”的段落能被挑出来说上这么两句。翻遍大陆版的小说集，也没有《秧歌》，才知道是不能出的，而且原文是英文。<br>张爱玲一直以来的好处就是冷眼旁观，而且不做价值评判——这也就是为什么我特别想看她写解放后的故事，看她怎么毫不客气地剥掉刻奇的外衣。当代的事情，国人写来很少能不带激烈感情，无论是褒是贬。<br><a id="more"></a></p>
+<h4 id="《秧歌》里的饥饿"><a href="#《秧歌》里的饥饿" class="headerlink" title="《秧歌》里的饥饿"></a>《秧歌》里的饥饿</h4><p>拿到书以后，我直扑麻饼一段，看了看前后文的相关段落：</p>
+<blockquote>
+<p>挨到天快亮的时候，他终于下了个决心。第二天，等雨停了，他就步行到镇上去寄信，照常在饭馆子里吃饭。但是他回来之前，买了些食物揣在口袋里带回来——以前他从来没有做过这样的事。他买了些干红枣和茶叶蛋。<strong>他有一种犯罪的感觉</strong>，因为他算是和农民一同生活的，他们吃什么，他也得吃什么。<br>那天晚上他吃了茶叶蛋和红枣之后，很小心的用一张纸把蛋壳和枣核包了起来。到了早晨，他口袋里揣着那包东西出去散步。也真是奇怪，乡村的地方那样大，又那样不整洁，<strong>然而像这一类的垃圾简直就没处丢</strong>。他不得不走到很远的地方去，到山岗上去，把蛋壳和枣核分散在长草丛里。</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>……反正只要是与食物有关的事，他们已经无法用自然的态度来应付它了。<strong>食物简直变成了一样秽亵的东西</strong>，引起他们大家最低卑最野蛮的本能。</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>他到镇上去得更勤了，但是每次去，总仍旧要假借一个藉口。小镇上实在没有什么可买的东西，他常常买红枣，因为那是“补”的；也买那种铁硬的大麻饼，直径五寸阔；还有叫做“金钱饼”的<strong>小麻饼</strong>——他从前吃过的，<strong>但是从来没注意到它吃起来夸嗤夸嗤，响得那样厉害</strong>。白天没法关房门，只好背对着门坐着吃东西。像这样偷吃，他觉得实在是一种可耻的经验。但无论如何，确是缓和了饥饿的痛苦和精神上的不安，使他能够工作下去。</p>
+</blockquote>
+<p>这时想到胡适评语：“这本小说从头到尾写的是‘饥饿’”。果然。这个主题在解放后的文学中并不陌生，譬如莫言就说：“饥饿和孤独是我创作的财富”。他在《丰乳肥臀》和《四十一炮》里饿得发慌，引得读者嘴里也津津有味。张爱玲写土改，必然也是要写到饥饿的。<br>“吃”的细节一再丰富，比较让人难忘的段落还有：</p>
+<ul>
+<li>金根和月香争执是煮稀饭还是干饭好，干部来了，两人躲藏不及被发现。金根怪道“干的饭就不怕泼出来烫手了”。</li>
+<li>每谈到“收成如何”，主角总要四处张望一番。</li>
+<li>顾冈对借着寄信去镇上吃饭一事盼望十分热切。</li>
+<li>月香把屡次偷看顾冈吃东西的阿招捉起来，打了一顿，后来又心疼起来，盘算着弄点猪油。</li>
+<li>金根回忆小时候，母亲拿勺子刮缸底那刺耳的声音，“就感到一种彻骨的辛酸”。<br>……</li>
+</ul>
+<p>当然在这篇小说里，我最感到惊喜的，并非这些常常被描摹的饥饿、警戒和不怀好意的干部，而是读到那个月香逮住顾冈吃东西的段落：<strong>把食欲完全类比为性欲，叫人不好意思，要转过眼睛去的</strong>。<br>这个类比，让人拍案。难怪胡适这样的夸奖。<br>现在这个年代，很难想象在饥窘的时候，吃东西也如此敏感。但这感受离我们并不遥远。我直接联想到，中学时候，中午饭往往并不管饱，或者青春期本就易饿，因而坐在教室里常常是种煎熬，便要忍不住从课桌肚里偷拿东西吃，要是吃到了上文的麻饼那样“夸嗤夸嗤”的东西，马上尴尬无地自容。所以感叹之余，也能理解。<br>另一点，这类比让我想到的是：食欲和性欲是人的两种本性，要是在特定情况下，食欲同性欲一样难以启齿，那在另一个极端时，性欲是否也能像食欲一样被平常对待？<br>本来就有俗语“饱暖思淫欲”，现在世界上，以单个国家的发展来看，性解放和经济发展似乎有些关联（此处考虑到文化政治因素，不宜横向比较）。不久前在知乎上看到一个答案：<a href="http://zhihu.com/question/22691341/answer/66468351" target="_blank" rel="external">为什么同性恋可以接受，但不能接受乱伦？——韩丁的回答</a>，从功利主义的角度解释一种道德标准和总体幸福、成本之间的关系，有所启发。在社会物质水平极低、政治极度专制时，道德标准就在人的自我监督下自动上升到“战备状态”。</p>
+<p>如果说《秧歌》其余部分带有一种无可奈何的悲哀和冷笑，那写“食欲”的这一段几乎是严肃得壮烈起来了。笔调仍然是平静的讽刺，但因为其真实和接近，让人笑不出来。<br>因为截至如今，我们虽然不再把食欲视作洪水猛兽，却还对一些最平常不过的事情令行禁止，看到就要转过眼睛。一种绝望的道德标准在脖子四周慢慢淹开，远处，四海升平，河清海晏。</p>
+<h4 id="意料之中，情理之中"><a href="#意料之中，情理之中" class="headerlink" title="意料之中，情理之中"></a>意料之中，情理之中</h4><p>张爱玲随着年岁增长，作品凝缩，华丽的文字枷锁卸下了，剩下的只有“情理”二字。晚年的《小团圆》几乎只是一个虚远的大纲，写骨，不写肉。我叹服的是她写不可思议的复杂事情的能力，似乎只是简单几句，就让人理清其中头绪。<br>看张爱玲的小说，很容易就能列一个长长的警句单子，都是让人“会心一笑”的一类，懂的自然懂。长得越大，懂得越多。<br>因此我不开清单，只想研究文中通过嘲弄进行深刻而全面刻画的例子——在《秧歌》里，是对干部“王同志”王霖的分析。对王同志的印象，除了借助他自己的回忆，也常常通过顾冈的心理活动来描述。顾冈这个角色，我觉得是代表了一部分张爱玲的视角：又是文艺工作者，又是对时局看不惯，又是无奈的清醒却无所作为。<br>我并不是说张爱玲不能写那些投机分子和坏蛋的心理，或是纯然代入了某个角色，但在一部小说里，总得有某一个角色，她站在那角色肩后偶尔发一句评论。假如和那角色不是同类，作者跟着也觉得别扭。<br>关于王同志的事情，大约有这些段落：</p>
+<blockquote>
+<ul>
+<li>王同志是矮矮的个子，年纪过了四十了，但是他帽檐底下的脸依旧是瘦瘦的年轻人的脸。他的笑容很可爱。身上穿着臃肿的旧棉制服，看上去比他本人胖了一大圈。腰带箍紧了，使他胸前高高的坟起，臀后耸起一排皱裥，撅得老远，倒有点像个西洋胖妇人的姿态。</li>
+<li>逮住了金根夫妇吃饭以后，给惊慌中的月香留下和气的印象。</li>
+<li>顾冈心时想，这王同志的确是一个很好的宣传家。王的党龄也很长，而且据他自己说，从前在苏北还有过实际战斗经验。他实在应当有一个较好的位置。为什么到现在还是在这穷乡僻壤做一个村干部呢?也许是因为党内派系的斗争，使他郁郁不得志。</li>
+<li>王同志看出了顾冈的疏远，在心里气对方的轻视态度，越发要夸耀自己的过去。</li>
+<li>一长段，讲他年轻时如何追求一个叫沙明的女人，自信地求婚，并未考虑她拒绝的情况。她也确实没有拒绝。<br>“这该是好兆头!”王霖想：“在一个合作社里向她求婚。这应当是我们在革命岗位上终生合作的开始。”</li>
+<li>又是一长段。年轻的王霖野心勃勃，回忆里是些成功的会议、斗争以及做主张抛下怀孕的沙明一事。很久以后，去找沙明时，他才想到沙明和他在一起很有可能是不快乐的。然而事情已经无法转圜了。</li>
+<li>他虽然没有什么朋友，和一切人的关系都搞得相当好，但是因为太自信，太固执，对于上司不大肯迁就、敷衍。就因为这缘故，无论有什么事情出了乱子，总是他挨批评。……他也像许多别的老干部一样，被调到乡下去担任一个低下的职务，那也就是他们的养老金了。<br>他对于党的一般性的政策绝对没有意见。无论怎样不合理，不能接受的，他所受的训练也能够使他很快地“打通思想”，心安理得地接受下来。……<br>他常常 <a href="">对政府滥用他辛苦从农民手里榨来的税钱</a> 感到愤懑，但是他这是一种无可奈何的气愤，像一个孤独的老年人被他唯一的朋友所悔辱，自己生一回子气，也并没有人去劝他，他熬不了多久，自己倒又去转圆。<strong>他除了党以外，在这世界上实在是一无所有的了。</strong></li>
+</ul>
+</blockquote>
+<p>一场赤裸裸血淋淋的对老干部的摹写。<br>只是写王同志的回忆，我们便窥见他是怎样的人，是怎样诞生的了。要说他有什么错，挑不出大的来，只能怪他过分中庸。中庸就是有时行善、有时作恶，随波逐流。<br>托洛茨基在《我的生平》里归纳说，一个群体大多数都是这样中庸之辈，带头人的性质决定了群体的风气。他读中学时，在老师面前失势的时期，班级里最坏而惫懒的一群人就冒出头，组织学生打小报告，搞得人心惶惶。他重新掌握话语权后，班中又有了光明欣欣向荣的气息。<br>张爱玲未必不知道这个现象。她的散文里就写过——“中国人最怕引起注意”。可见要有意无意影射一个带头者、一种制度，最好的方法就是写一个中庸人物。</p>
+<p>后面的就不必说了，王同志的专长便是“做群众工作”，和稀泥、无中生有，这是他修炼毕生的技能。<br>他到了最后，或许已经形成了一套完整的偏见，可以让他在其中安居，欺骗群众也欺骗自己。假如从那偏见中醒过来，不仅提醒了自己的失败，还会暴露出身边事样样都让人痛苦、难以理解。<br>张爱玲可能也暗示，无能的清醒是折磨，仿佛在地狱里旁观。</p>
+<p>对王同志这个人，我们通过张爱玲的描述，可以彻底了解，并推断出他在一切情况下的行为。这使得小说获得一种内在推动力——不须创造冲突，只给一个第一推动，情节便往那边源源不断地去了。人物不断登场，可只是匆匆一瞥就能知其结局。<br>张爱玲作为红学研究者，不知是否继承了古典小说经典的“谶纬”意识。但或许，这不是有意铺设的谶纬，而是时代背景提供的一股力量，挟持着作家如此看、如此写、无助地看自己笔下英雄人物随大江东逝。<br>或许《秧歌》“意料之中，情理之中”叙事的浑然天成，和张爱玲其余小说不同。《秧歌》毕竟有且只有一个方向。在时代洪流下，普通人只能不断倒霉。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[一个陌生男人的影子]]></title>
+      <url>http://yoursite.com/2015/Ying-Zi/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>那天晚上他回家，感觉背后很沉，一步千钧。</p>
+</blockquote>
+<p>“喝醉了，”他心里沉沉地想，“烂醉如泥，所以觉得吃力。”奋力向上拖动脚步，经过一箱假模特、一张老式床、数辆自行车、鞋、昏黄的灯光。等到了门口摸到钥匙，才想起来住在21楼，不应该爬楼梯。趔趄进门开灯换鞋，往沙发上一倒，感觉压到一个人，惊得跳起来。<br>他惊得跳起来，回头一望，三两下从背后影子里麻利地撕扯出一个男人，好像撕开快递包裹。黑影丝丝缕缕挂在那人身上，溜回地下淤泥一样的黑夜，有星辰在客厅里绕他们旋转。“不得了了，”他跪在那里暗想。“影子不小心把个活人挂住了，怪不得在楼梯间里就觉得沉。”<br>男人很长，仰在沙发上喷着鼻息，像匹被撂倒的马。<br><a id="more"></a><br>还记得那时候夜班公交车，倒地铁，倒公交车，地板透出凄冷的白光，身后的人不停打喷嚏、擤鼻子、从包里掏出披巾、加衣服，他一拍脑袋，醉酒影响了他的判断力，影子应当就是在那时候网住了背后的人！还记得有个男人在背后不停靠过来，好像地铁咸猪手，又像要扒窃，呼吸喷在他脖子上，他想：“变态？”换了几个扶手靠住，假装看了几次路线图，真的看了几次路线图，忘记干嘛要看路线图。那男人应该就是很可怜地被他影子挂住了，一对醉鬼谁都不知道影子的事，相互扶持下了车。给对方买了票。他吭哧吭哧把人家背上了楼。<br>为什么会挂住呢？他知道，地铁里还没到开空调的季节，很闷，热，肉味馨香，一群人热烘烘呼吸着彼此，都不说话。但影子里冰凉丝滑，很是舒服，他整个人靠在扶手上，胳膊伸到背后去冰镇。竟然没有人抗议，没人翻白眼，他后面自动排起一道长队，聚起一堆玩手机的人，有人把外套穿回去了。列车到站，他借刹车旋了个身背朝整个车厢，车厢一片冰凉、宁静、惬适。<br>如此说来，男人可能不是在地铁里勾住的。比如说在那之前，酒吧里面，也很可疑。地铁上人和人距离太紧，影子变得稀薄，平摊着、弥漫着。<br>在酒吧里面，前男友坐在对面，讲些没关紧要的事，他心里一会儿酸一会儿涩，影子一会儿紧一会儿松，掠食者似地威逼靠近舞池，又回来……那时候他没去注意身后，只管面前的谈判，前男友节节胜利，同时在擤鼻涕，感冒了，鼻头通红。<br>前男友说：受不了了，要么你和影子一刀两断。<br>前男友说：没办法和你睡在一起，夜里冷死，如同你。你这个人的心也是冷的。<br>还记得那时候前男友住在他下铺，他辗转反侧，带着星光的影子就落在前男友身上。八人宿舍没装空调，电风扇嗡嗡然，带着厚厚灰尘晕头转向，不能照顾到每个人，搅得心头一锅汤滚热。他想到那时候前男友仰躺在清凉的河水里，手机的亮晕在墙上如游鱼四处窜动。宿舍的其他人在凉席上翻煎，眼睛是红的，仇视地看他们两个。<br>后来宿舍和平磋商，规定他的下铺每人每周睡一次。最热的暑天，八个人讨论了一下，决定挤在一张上下铺里，他自己面朝墙壁上的蚊子血，手脚放在背后，囚徒的模样。作为回报，前男友躺他背后给他打扇，缕缕凉风，两道炙热的呼吸，缕缕凉风。他一开始心烦着白天，不久后心烦着背后，某天了悟，偷偷下载某些片子看，心怦怦跳。那时候心里想：难道这就是答案？坐在湖畔，夏风吹过，远处一对对情侣，茫然地，想要存档却没有位置。偷窥别人的生活，觉得自己错过了主线任务，离奇的悲壮和黯然。<br>往回了想，那当然是在瞎操心。第一次见到前男友是在高中军训，他蔫头蔫脑站在草地里喝水，陡然一个男生挤挨过来站着，眼睛望向别方，就像要在地铁上行窃。过了半晌，他猜不出那人用意，转头看了一眼，那人笑着解释：“你的影子好长，好黑啊！”又站了一会儿，班级里的人纷纷搬小板凳过来坐成一排，在他漫无边际的凉阴中。再后来，高中同学都传说他会某种气功，他背后的位置炙手可热。他却不记得为什么，影子为什么会这么长，冰凉黑滑，如仙草冻，像鲫鱼背？<br>不能解，不可解的谜啊，笼罩他半生。影子长过他的人，覆盖了他的其余部分。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[小强四叠半]]></title>
+      <url>http://yoursite.com/2014/Xiao-Qiang-4-Die-Ban/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>下午四点半，小强走进办公室，向顾老师忏悔。</p>
+</blockquote>
+<p>是小明啊，坐吧。<br>“老师，”他说，“我感到煎熬。有一件事，像滚油在我心中沸腾。我必须向您告解，以化解我心中的痛苦。”<br>怎么了嘛，小明？怎么，表白被拒了？听说你喜欢2班的周小莉。<br>人家是白富美，你还要努力。不过也不要太沮丧嘛。<br>人生还是有很多盼头的，不要为这么小一件事想不开。<br>“不是。”<br>“而且我叫小强。”<br>“……当然这个不提也罢。但是顾老师，我必须郑重地告诉您，我被一件事深深地折磨着。”<br>能有什么事，小强，你只有中学二年级。你要好好念书。<br>你成绩已经很好了，只要保持，就能追到喜欢的女孩子。<br>“追不到的。”<br>为什么这么说？<br>“老师，我要给您看我的痛苦。”<br>“您看。”<br>什……什么？等等小强，你去哪儿了？！<br>小强？！小强？！<br>小强？？？？？？！<br>小强？！<br><a id="more"></a></p>
+<p>下午四点半，小强在顾老师办公室外的自白。<br>“事情是这样的，”他深沉地抱起双臂，“要慢慢、从头说起。我知道你在那里，我看得见你。”<br>“对，说的就是你，player，我知道你的存在。我也知道我是个游戏里的人物。”<br>“这是什么时候开始的事情呢？”<br>“嗯……我发现自己有读档能力的时候。那是三年前的3月28号，上午九点半（实际上远不止三年）。”<br>“水笔用光了，于是我去小卖部又买了一支。我走在走廊上，把玩着我的新水笔，突然想在手腕上画个表。”<br>“那欲望来得迅速又直接，震懵了我的脑袋。啊，强烈的动机！驱使着我画一个表。”<br>“我右手的五根手指颤抖起来，强扭着握住那只笔，我感觉自己的手不受控制了，就想画一个表。千万不要尝试，player！”<br>“一个卡通表，有表带表盘指针。一下子就画出了一个完美的表。”</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[长安夜话]]></title>
+      <url>http://yoursite.com/2014/Chang-An-Ye-Hua/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>长安城的冬天下着怪异的雪，白色的鹅毛飘下来，融进黑色的河渠。</p>
+</blockquote>
+<p>和古时候一样，长安城里竖着一百一十三座灰色城墙隔开的坊，每座坊开了四扇摆设用的门，经年失修，坊和坊之间已经连成了一片。此时在连天的雪幕中，长安城仿佛也成了一体。铁匠X坐在铺子里，炉膛里烧了红色的炭，屋里飞起了红色的雪，他耸了耸身子，支起耳朵，喝一口小壶里筛好的烧酒。<br>在他的对面是一个红衣的书生，也在筛他酒盆里的温酒喝。今天早上，X坐在门口生炉打铁之时，在火焰中看到这个书生走进坊门，走过一棵光秃秃的老榆树，掀起门帘进了他的铺子。在经过他时，书生对他微微一笑，羽毛大的雪片在他肩头、跳动的火苗尖上无声融化。<br><a id="more"></a><br>今天早上的时候，X并不认识这个书生。但在见到这个人的刹那，他心头一动，耳朵也随之动了一下，因此他默许了这位不速之客神色自若地踏进他的门（带着鞋上污黑的烂泥）、坐在他的桌子前、捂着他的羊皮热水袋，同时去舀他酒盆里的酒，好像这件事本该发生似的。后来他见中午天色暗下来，冻云积压、狂风骤卷，敢是要下暴风雪的兆头，就收了工进家门。他进了门，红衣书生正背着手站在壁前端详上面挂的一把剪刀，这把剪刀上整整齐齐地镌刻着几个字：“铁匠X2造”，见他进来，便回头微笑着瞥了他一眼。他在这一眼中陡然明白了自己的身份，原来自己名叫X2，这个名字代表着，自己曾在一个X家出生，排行老二，除此之外更无意义，也不能解释他的人生。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[瓮中之鳖]]></title>
+      <url>http://yoursite.com/2014/Weng-Zhong-Zhi-Bie/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>狭小灰色的房间里，你和比利从满是汗水的交缠中解脱出来，精疲力尽地坐直，点燃一根非法搞到的外国烟，看向窗外。那是共和国的二月，春寒料峭。</p>
+</blockquote>
+<p>屋檐在向下滴水，拉着铁丝网的窗口照进雪光。你们俩都赤裸着，在高潮后的余韵中沉默。这时，房间的门被砰地撞开，特务用枪指着你们的头，还有死青蛙般苍白的肉体，你们跳起来举起双手，瑟瑟发抖用床单捂住下体。“亚历山卓夫同志，”他说，“我们掌握了你是同性恋的证据。”你们的事情就是这样败露的。<br><a id="more"></a><br>（比利，你的男友，国家芭蕾剧团一级演员，多年前你在一家出差的旅馆迷上了他壮硕的身躯。你们自此一直保持地下情人的关系。这种关系，不用说，是被严令禁止的。因此一切联系都只能在暗中进行，在红砖铺就的黑暗巷道里你们会盯着彼此、吞云吐雾，然后掐灭烟头迅猛地来上一发。很多双眼睛注视着你们，它们是风的眼睛，吹来罪恶和忏悔。你时常会在午夜梦见这样一个场景：你和比利乔装改扮成女人，走进一家私营餐馆，这时你们发现在座的顾客全是你们的上级领导，他们就转过头来，用鹰一样锐利的眼神刺破你们。有人带头鼓起掌来。一个人拿来两副手铐，给你们授以这罪恶的勋章。气氛其乐融融。这时候，毫无疑问，你一身冷汗，惊醒了。你现在就是从这样一个梦中惊醒。）</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[侠情]]></title>
+      <url>http://yoursite.com/2014/Xia-Qing/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>已经很久都没有过那种侠情了。</p>
+</blockquote>
+<p>江湖夜雨十年灯，在秋窗下温一壶酒，孑然一身，无牵无挂。雪停而又欲雪的天空下，独自提剑立于城墙之上，面对万里银装素裹，知道自己不到任何地方去，也没有任何事要做，没有根也没有叶，从古到今，从前往后，都只有这一瞬间、这个人存在。宇宙之大，四维之广，只有此处没有因果，没有变动，没有喜悦和苦难。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[驯龙师]]></title>
+      <url>http://yoursite.com/2013/Xun-Long-Shi/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>他们小的时候总是站在马斯特洛伯爵的中庭里，落叶飘下掉到他们头上。</p>
+</blockquote>
+<p>四周游廊下人来人往，都是侍者、宾客和银餐具。没人管他们去哪里，小熊子爵从口袋里摸出一个口琴，或是一个锡兵，或者一个发条玩具，坐到台阶上，告诉洛冷：“爸爸给我买的。”他们就在中庭台阶上一起玩他的新玩具，小熊子爵的口袋里有数不清的糖果，大把硬币，然后他们偷偷溜到外面，买一些小玩意，买串在木签上的鱿鱼吃，再偷偷溜回去。这些夜晚非常漫长，总是通宵达旦，花园里吹着夜风。半夜之前，洛冷的母亲过来把他和文森领回去，小熊子爵被保姆接走，洛冷看他的马车辘辘驶远，而自己踩着亮晶晶的小石子路，在黑暗中回到自己的家。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[刑部]]></title>
+      <url>http://yoursite.com/2013/Xing-Bu/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>这是讲一个不平常的故事。</p>
+</blockquote>
+<p>初春时节，冰凌初化，河滩上是黑色的烂泥。严坐在刑部耳房背后的天井里磨一把刀。一只鸟飞离枝梢，树枝颤动了一下，他站起来，吹掉刀刃上的落雪。天色刚欲曙，没到五更，刽子手都起来了，忙着打水、准备、穿衣。他们如此忙碌，是因为今天要杀一个人。这是个特别的人。这个人带燕云十八寨揭旗造反，五千山贼据守一方，使得朝廷大为惶恐。朝廷紧急传书，调征南越大将军前来京城，去时跑死了五匹马，回来跑死三匹马，脚刚沾地就被送进主帐。后来朝廷率部围山，围了两个月，五千人一半饿死在里面。捉住那人的时候，整座山上的树皮都被扒得干干净净，树叶簌簌哀鸣。他坐在山洞中，抬头露出嘲讽的笑，双目赤红。他提起膝上的长剑，就划开了肚子。众兵士一拥而上，把他的肠子塞回腔里，五花大绑回了营。然而此时他昏过去了，就不须再反抗。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[寻找严光]]></title>
+      <url>http://yoursite.com/2013/Finding-Yan-Guang/</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>刘文叔6岁时，欧洲的救世主正于马厩中诞生，十多年后，他到长安求学，结识了严光。</p>
+</blockquote>
+<p>太学生在乱世中梦想攀附权贵，艳羡长安街头随从簇拥的执金吾。而严光只热衷于读书。他精通各门君子的学问，懂医术，性格淡泊到让人不爽。刘秀看他不慕名利，就很喜欢他，因为和他在一起不存在压力。当是时刘秀心中的女神是阴丽华，他意淫着光辉灿烂的人生。其实他当是汉朝宗室，拥有显赫的名姓，家中颇有些田地。后来不知怎么的，大乱波及到他家，书读不成了。他就离开了长安，从自己的庄园中带兵一路骑牛征战，光复了汉室。再后来，他就成为了皇帝。<br>成为皇帝以后，他于很多烽火连天的噩梦中想起了严光，就下令去找他。经过长时间的搜寻，终于听说有人见到一个相貌酷似严光、着一羊皮裘的人于富春山间一闪而逝。那就是严光了。刘秀不会搞错。</p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>

@@ -1,0 +1,342 @@
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2016-10-04T07:15:06.847Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Working directory: \u001b[35m~/github/destini.github.io/\u001b[39m","time":"2016-10-04T07:15:06.851Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Config loaded: \u001b[35m~/github/destini.github.io/_config.yml\u001b[39m","time":"2016-10-04T07:15:06.961Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2016-10-04T07:15:06.981Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2016-10-04T07:15:06.981Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2016-10-04T07:15:06.981Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2016-10-04T07:15:06.982Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2016-10-04T07:15:06.985Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2016-10-04T07:15:06.987Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2016-10-04T07:15:06.988Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2016-10-04T07:15:06.990Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2016-10-04T07:15:06.992Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2016-10-04T07:15:06.998Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2016-10-04T07:15:07.075Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2016-10-04T07:15:07.080Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Loading database.","time":"2016-10-04T07:15:07.087Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":30,"msg":"Start processing","time":"2016-10-04T07:15:07.096Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:15:07.231Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:15:07.232Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/css/main.styl\u001b[39m","time":"2016-10-04T07:15:07.241Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/avatar.gif\u001b[39m","time":"2016-10-04T07:15:07.242Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-nd.svg\u001b[39m","time":"2016-10-04T07:15:07.242Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-sa.svg\u001b[39m","time":"2016-10-04T07:15:07.243Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc.svg\u001b[39m","time":"2016-10-04T07:15:07.243Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nd.svg\u001b[39m","time":"2016-10-04T07:15:07.244Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-sa.svg\u001b[39m","time":"2016-10-04T07:15:07.244Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by.svg\u001b[39m","time":"2016-10-04T07:15:07.244Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/loading.gif\u001b[39m","time":"2016-10-04T07:15:07.244Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/cc-zero.svg\u001b[39m","time":"2016-10-04T07:15:07.245Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/placeholder.gif\u001b[39m","time":"2016-10-04T07:15:07.245Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/quote-r.svg\u001b[39m","time":"2016-10-04T07:15:07.245Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/quote-l.svg\u001b[39m","time":"2016-10-04T07:15:07.245Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/images/searchicon.png\u001b[39m","time":"2016-10-04T07:15:07.245Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_layout.swig\u001b[39m","time":"2016-10-04T07:15:07.404Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/page.swig\u001b[39m","time":"2016-10-04T07:15:07.406Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/category.swig\u001b[39m","time":"2016-10-04T07:15:07.406Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/index.swig\u001b[39m","time":"2016-10-04T07:15:07.406Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/archive.swig\u001b[39m","time":"2016-10-04T07:15:07.406Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/tag.swig\u001b[39m","time":"2016-10-04T07:15:07.407Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/post.swig\u001b[39m","time":"2016-10-04T07:15:07.407Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2016-10-04T07:15:07.418Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2016-10-04T07:15:07.418Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2016-10-04T07:15:07.418Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2016-10-04T07:15:07.418Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2016-10-04T07:15:07.418Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/ja.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/id.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/pt-BR.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-hk.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-Hans.yml\u001b[39m","time":"2016-10-04T07:15:07.419Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/bootstrap.js\u001b[39m","time":"2016-10-04T07:15:07.430Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/affix.js\u001b[39m","time":"2016-10-04T07:15:07.430Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/hook-duoshuo.js\u001b[39m","time":"2016-10-04T07:15:07.430Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/motion.js\u001b[39m","time":"2016-10-04T07:15:07.431Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/post-details.js\u001b[39m","time":"2016-10-04T07:15:07.431Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/scrollspy.js\u001b[39m","time":"2016-10-04T07:15:07.431Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/utils.js\u001b[39m","time":"2016-10-04T07:15:07.432Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fastclick/bower.json\u001b[39m","time":"2016-10-04T07:15:07.434Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fastclick/README.md\u001b[39m","time":"2016-10-04T07:15:07.435Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fastclick/LICENSE\u001b[39m","time":"2016-10-04T07:15:07.435Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/HELP-US-OUT.txt\u001b[39m","time":"2016-10-04T07:15:07.436Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/bower.json\u001b[39m","time":"2016-10-04T07:15:07.437Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery_lazyload/CONTRIBUTING.md\u001b[39m","time":"2016-10-04T07:15:07.437Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery_lazyload/README.md\u001b[39m","time":"2016-10-04T07:15:07.438Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery_lazyload/bower.json\u001b[39m","time":"2016-10-04T07:15:07.439Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery_lazyload/jquery.lazyload.js\u001b[39m","time":"2016-10-04T07:15:07.439Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery_lazyload/jquery.scrollstop.js\u001b[39m","time":"2016-10-04T07:15:07.440Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/velocity/bower.json\u001b[39m","time":"2016-10-04T07:15:07.440Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/velocity/velocity.ui.min.js\u001b[39m","time":"2016-10-04T07:15:07.441Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/velocity/velocity.ui.js\u001b[39m","time":"2016-10-04T07:15:07.441Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/velocity/velocity.min.js\u001b[39m","time":"2016-10-04T07:15:07.441Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/jquery/index.js\u001b[39m","time":"2016-10-04T07:15:07.478Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-collapse.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/sidebar.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/reward.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/comments.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/wechat-subscriber.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/duoshuo-hot-articles.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/footer.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/header.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/pagination.swig\u001b[39m","time":"2016-10-04T07:15:07.544Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search.swig\u001b[39m","time":"2016-10-04T07:15:07.545Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/baidu-push.swig\u001b[39m","time":"2016-10-04T07:15:07.545Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/boostrap.swig\u001b[39m","time":"2016-10-04T07:15:07.545Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/commons.swig\u001b[39m","time":"2016-10-04T07:15:07.545Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/vendors.swig\u001b[39m","time":"2016-10-04T07:15:07.545Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/js/src/schemes/pisces.js\u001b[39m","time":"2016-10-04T07:15:07.551Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/blank.gif\u001b[39m","time":"2016-10-04T07:15:07.553Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/fancybox_loading.gif\u001b[39m","time":"2016-10-04T07:15:07.555Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/fancybox_loading@2x.gif\u001b[39m","time":"2016-10-04T07:15:07.555Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/fancybox_overlay.png\u001b[39m","time":"2016-10-04T07:15:07.556Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/fancybox_sprite.png\u001b[39m","time":"2016-10-04T07:15:07.556Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/fancybox_sprite@2x.png\u001b[39m","time":"2016-10-04T07:15:07.557Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/jquery.fancybox.css\u001b[39m","time":"2016-10-04T07:15:07.557Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/jquery.fancybox.js\u001b[39m","time":"2016-10-04T07:15:07.558Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/jquery.fancybox.pack.js\u001b[39m","time":"2016-10-04T07:15:07.558Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fastclick/lib/fastclick.js\u001b[39m","time":"2016-10-04T07:15:07.559Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fastclick/lib/fastclick.min.js\u001b[39m","time":"2016-10-04T07:15:07.559Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/css/font-awesome.min.css\u001b[39m","time":"2016-10-04T07:15:07.560Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/css/font-awesome.css.map\u001b[39m","time":"2016-10-04T07:15:07.560Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/css/font-awesome.css\u001b[39m","time":"2016-10-04T07:15:07.561Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/fontawesome-webfont.woff2\u001b[39m","time":"2016-10-04T07:15:07.561Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/ua-parser-js/dist/ua-parser.min.js\u001b[39m","time":"2016-10-04T07:15:07.561Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/ua-parser-js/dist/ua-parser.pack.js\u001b[39m","time":"2016-10-04T07:15:07.561Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/mist.swig\u001b[39m","time":"2016-10-04T07:15:07.568Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/muse.swig\u001b[39m","time":"2016-10-04T07:15:07.568Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/fontawesome-webfont.eot\u001b[39m","time":"2016-10-04T07:15:07.568Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/FontAwesome.otf\u001b[39m","time":"2016-10-04T07:15:07.569Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/velocity/velocity.js\u001b[39m","time":"2016-10-04T07:15:07.569Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/fontawesome-webfont.woff\u001b[39m","time":"2016-10-04T07:15:07.569Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/localsearch.swig\u001b[39m","time":"2016-10-04T07:15:07.583Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/external-fonts.swig\u001b[39m","time":"2016-10-04T07:15:07.583Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/swiftype.swig\u001b[39m","time":"2016-10-04T07:15:07.583Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/tinysou.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/add-this.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/baidushare.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/duoshuo_share.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/jiathis.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/pages/post-details.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/comments.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/lean-analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/localsearch.swig\u001b[39m","time":"2016-10-04T07:15:07.585Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/pisces.swig\u001b[39m","time":"2016-10-04T07:15:07.585Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/mathjax.swig\u001b[39m","time":"2016-10-04T07:15:07.585Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/tinysou.swig\u001b[39m","time":"2016-10-04T07:15:07.585Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2016-10-04T07:15:07.596Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2016-10-04T07:15:07.596Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/fancybox_buttons.png\u001b[39m","time":"2016-10-04T07:15:07.596Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2016-10-04T07:15:07.597Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/jquery.fancybox-media.js\u001b[39m","time":"2016-10-04T07:15:07.597Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/fancybox/source/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2016-10-04T07:15:07.598Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2016-10-04T07:15:07.598Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/baidu-analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.610Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/busuanzi-counter.swig\u001b[39m","time":"2016-10-04T07:15:07.610Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/cnzz-analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.610Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/facebook-sdk.swig\u001b[39m","time":"2016-10-04T07:15:07.610Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/google-analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.610Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/analytics/tencent-analytics.swig\u001b[39m","time":"2016-10-04T07:15:07.611Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/comments/duoshuo.swig\u001b[39m","time":"2016-10-04T07:15:07.611Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/third-party/comments/disqus.swig\u001b[39m","time":"2016-10-04T07:15:07.611Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35msource/vendors/font-awesome/fonts/fontawesome-webfont.svg\u001b[39m","time":"2016-10-04T07:15:07.612Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:15:07.866Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:15:07.867Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2016-10-04T07:15:07.875Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Database saved","time":"2016-10-04T07:15:07.890Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:15:50.061Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:17:21.827Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:17:21.828Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:17:21.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:17:21.949Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:17:24.552Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:17:36.947Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:17:36.948Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:17:37.054Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:17:37.055Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:17:37.055Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:17:37.055Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:17:37.056Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:17:37.056Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:17:37.057Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:17:38.087Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:18:25.081Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:19:22.374Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:19:22.375Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:19:22.493Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:19:22.494Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:19:32.341Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:19:32.343Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:19:32.451Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:19:32.452Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:19:32.452Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:19:32.452Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:19:32.453Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:19:32.453Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:19:32.453Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:19:35.579Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:19:38.992Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:19:44.536Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:19:44.537Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:19:44.651Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:19:44.652Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:20:30.695Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:20:30.697Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:20:30.812Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:20:30.812Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:20:30.812Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:20:30.812Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:20:30.813Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:20:30.813Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:20:30.813Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Theme config loaded.","time":"2016-10-04T07:21:29.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2016-10-04T07:21:29.584Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:21:29.693Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:21:29.694Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:21:38.925Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:21:43.505Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:21:46.968Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering archive: \u001b[35marchives/index.html\u001b[39m","time":"2016-10-04T07:21:48.660Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:21:50.785Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:22:05.725Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:24:00.867Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:24:00.869Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:24:00.870Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:24:00.870Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:24:00.870Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:24:00.870Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:24:00.871Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:24:18.699Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:24:18.699Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:24:18.699Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:24:18.700Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:24:18.700Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:24:18.701Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:24:18.705Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:24:23.548Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:24:23.548Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:24:23.548Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:24:23.549Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:24:23.549Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:24:23.549Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:24:23.551Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m头像模糊.png\u001b[39m","time":"2016-10-04T07:24:41.557Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:24:41.663Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:24:41.664Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:24:46.311Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:24:46.313Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:02.397Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:02.397Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:02.397Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:02.397Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:02.397Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:02.398Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:02.401Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35m头像模糊.png\u001b[39m","time":"2016-10-04T07:25:06.020Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mavatar.png\u001b[39m","time":"2016-10-04T07:25:06.022Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:06.127Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:06.128Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mavatar.png\u001b[39m","time":"2016-10-04T07:25:08.035Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35muploads/avatar.png\u001b[39m","time":"2016-10-04T07:25:08.036Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:08.142Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:08.142Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:08.142Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:08.142Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:08.143Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:08.143Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:08.143Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:13.173Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:13.173Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:13.173Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:13.174Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:13.174Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:13.174Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:13.175Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:19.296Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:19.300Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35muploads/avatar.png\u001b[39m","time":"2016-10-04T07:25:23.588Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mimages/avatar.png\u001b[39m","time":"2016-10-04T07:25:23.602Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:23.707Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Processed: \u001b[35mimages/avatar.png\u001b[39m","time":"2016-10-04T07:25:28.562Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:28.672Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:28.672Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:28.672Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:28.673Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:28.673Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:28.673Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:28.674Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:44.787Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:44.787Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:44.787Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:44.788Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:44.788Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:44.788Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:44.788Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2016-10-04T07:25:49.689Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2016-10-04T07:25:49.692Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:26:02.076Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2016-10-04T07:26:09.999Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":30,"msg":"Good bye","time":"2016-10-04T07:29:05.300Z","v":0}
+{"name":"hexo","hostname":"dhcp-130-58-110-112.swarthmore.edu","pid":56102,"level":20,"msg":"Database saved","time":"2016-10-04T07:29:05.328Z","v":0}

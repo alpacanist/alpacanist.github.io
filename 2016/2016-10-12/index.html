@@ -1,0 +1,928 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Monda:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Great Vibes:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.0.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="游戏设计,LIFE," />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.0.1" />
+
+
+
+
+
+
+<meta name="description" content="前几天，和《家族史》的开发者 bubush 大神在费城华埠见了面，最后临别时，谈到一个游戏中多视点叙事的问题：如果要用所有的人物视角通关同样的主线，玩家是否会丧失兴趣？（她提供的例子是，某多人创作的文字游戏，各线路都由其作者独立撰写，但分享同一个世界观和历史。）实际上这个问题应该分成三点：
+
+多周目主线，如何才能提供新鲜感？
+怎么才能不剧透？
+如果各条线间联系很少，又怎么保证玩家兴趣？">
+<meta property="og:type" content="article">
+<meta property="og:title" content="小径汇集：多视点叙事游戏的可能性">
+<meta property="og:url" content="http://yoursite.com/2016/2016-10-12/index.html">
+<meta property="og:site_name" content="Tlön, Uqbar">
+<meta property="og:description" content="前几天，和《家族史》的开发者 bubush 大神在费城华埠见了面，最后临别时，谈到一个游戏中多视点叙事的问题：如果要用所有的人物视角通关同样的主线，玩家是否会丧失兴趣？（她提供的例子是，某多人创作的文字游戏，各线路都由其作者独立撰写，但分享同一个世界观和历史。）实际上这个问题应该分成三点：
+
+多周目主线，如何才能提供新鲜感？
+怎么才能不剧透？
+如果各条线间联系很少，又怎么保证玩家兴趣？">
+<meta property="og:updated_time" content="2016-10-12T23:18:46.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="小径汇集：多视点叙事游戏的可能性">
+<meta name="twitter:description" content="前几天，和《家族史》的开发者 bubush 大神在费城华埠见了面，最后临别时，谈到一个游戏中多视点叙事的问题：如果要用所有的人物视角通关同样的主线，玩家是否会丧失兴趣？（她提供的例子是，某多人创作的文字游戏，各线路都由其作者独立撰写，但分享同一个世界观和历史。）实际上这个问题应该分成三点：
+
+多周目主线，如何才能提供新鲜感？
+怎么才能不剧透？
+如果各条线间联系很少，又怎么保证玩家兴趣？">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post"},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: 6340723896110548000,
+      author: '★'
+    }
+  };
+</script>
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2016/2016-10-12/"/>
+
+  <title> 小径汇集：多视点叙事游戏的可能性 | Tlön, Uqbar </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">Tlön, Uqbar</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle">平行博客世界的总交叉口。</p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
+</div>
+
+
+    </div>
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                小径汇集：多视点叙事游戏的可能性
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-count">
+            1,210 字
+          </span>
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+              &nbsp; | &nbsp;
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-10-12T18:27:47-04:00" content="2016-10-12">
+              2016-10-12
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/荒于嬉/" itemprop="url" rel="index">
+                    <span itemprop="name">荒于嬉</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/2016-10-12/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/2016-10-12/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>前几天，和《家族史》的开发者 bubush 大神在费城华埠见了面，最后临别时，谈到一个游戏中多视点叙事的问题：如果要用所有的人物视角通关同样的主线，玩家是否会丧失兴趣？<br>（她提供的例子是，某多人创作的文字游戏，各线路都由其作者独立撰写，但分享同一个世界观和历史。）<br>实际上这个问题应该分成三点：</p>
+<ul>
+<li>多周目主线，如何才能提供新鲜感？</li>
+<li>怎么才能不剧透？</li>
+<li>如果各条线间联系很少，又怎么保证玩家兴趣？</li>
+</ul>
+<a id="more"></a>
+<p>我当时给出了一个解决方案，那就是逐步解锁新人物，并且在新视点中给出进阶的信息。<br>回过头来想想，这样的结构岂不是和文字游戏的经典结构有异曲同工之妙？在这里，视点的选择成了树形的，可以被作者控制。作者对于玩家获得的的“知识”了如指掌，可以简单地预知玩家在每一个节点处，经历过哪些视角。<br>事实上《家族史》本身也有这样的特点。玩家扮演家族中每一代成员中的一个，因而造成了海量的分支。而由于每个 pov 覆盖的年代都不同，可以保证主线的新鲜感。</p>
+<p>再研究 pov 叙事，我想这个问题中的三个方面，并不全需要答案。以著名的 RPG《废都物语》为例，游戏一共四周目，但由于丰富的玩法、元素设置和新内容的解锁，每一周目都给玩家带来绝对不同的体验。毋需考虑故事的重复。<br>另外，玩家为什么不能只体验若干 pov？毕竟 pov 设置和文字恋爱游戏的分支线路有许多共性。如果玩家不喜欢某个角色，可以选择不走那条线路。不过孤立式的设计其实并不多，大部分游戏选择把信息散布在各个线路中，要求玩家通关全部线路来获得完整的体验。这种设计背后的思路是，内容制作者不想”浪费“叙事结构中的任何一个角落。它有一个单一的故事内核，有指定的剥开内核方式。</p>
+<p>到这里，我们发现，经典文字游戏的视点、路线等叙事设计都是围绕要传达的信息展开（老生常谈！）。作者通过精心安排信息的展示方式，吸引玩家探索<strong>全部内容</strong>。</p>
+<p>但是玩家真的有必要得知游戏世界中的全部信息吗？<br>譬如，在 RPG 类型的游戏中，有些玩家可能不会尝试法师之外的任何职业，却仍然做完所有任务、通关主线。其中主线的内容是共有的，职业的区别是一种细微而次要的体验。<br>文字游戏的 pov 也可以采取这种设计方式。很多游戏允许玩家选择出身背景，在我看来就是一种轻度 pov。同样，可以允许玩家以不同身份进入游戏世界、通过悬殊的经历，获得完全相同的信息。玩家选择多周目与否，实际上取决于自身兴趣，并不妨碍”完整体验“。<br>我之前的提议，某种程度上便是去除了一种体验的”完整性“，来交换玩家的游戏时长。</p>
+<p>另一个诠释角度则是，把 pov 看作收集要素，就像《以撒的结合》中获得成就解锁初始角色一样。这里就牵涉到了文本的碎片化。《偶像梦幻祭》中，卡牌自带的特殊故事要用资源解锁，正是一种”文本收集“的尝试。《废都物语》的 folklore 系统也是一例。在这些设计中，信息被量化了，玩家获得了一把随时访问自己游戏经历的”钥匙“，就像经典的”结局回放“系统一样，现在游戏中的每个瞬间都可以重放，剧情正式成为了一种虚拟财富——正如现下互联网的潮流一样，任何文本碎片和思想断章都是溪水中闪光的金粒。<br>又想起博尔赫斯写到过的《四月三月》，一本虚构的实验性小说，剧情的推进实质上是向过去寻找答案。一个结果可以有好几个原因，是小径汇集的花园。一个故事可以用好几副不同的面貌经历。主线一致，视角不同。继记忆之后，形形色色的面貌和身份也可以加入肯德基豪华收集套餐了。</p>
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/游戏设计/" rel="tag">#游戏设计</a>
+          
+            <a href="/tags/LIFE/" rel="tag">#LIFE</a>
+          
+        </div>
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2016/luo-ying-he/" rel="next" title="">
+                <i class="fa fa-chevron-left"></i> 
+              </a>
+            
+          </div>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2016/2016-10-17/" rel="prev" title="作为幽灵的角色意志">
+                作为幽灵的角色意志 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="2016/2016-10-12/"
+           data-title="小径汇集：多视点叙事游戏的可能性" data-url="http://yoursite.com/2016/2016-10-12/">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.png"
+               alt="alpacanist" />
+          <p class="site-author-name" itemprop="name">alpacanist</p>
+          <p class="site-description motion-element" itemprop="description">正如所有巴比伦人一样，我当过总督；正如所有人一样，我当过奴隶。</p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">31</span>
+              <span class="site-state-item-name">日志</span>
+            </a>
+          </div>
+
+          <div class="site-state-item site-state-wordcount">
+            <a href="/categories">
+              <span class="site-state-item-count">25.8k</span>
+              <span class="site-state-item-name">字数</span>
+            </a>
+          </div>
+
+          
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/alpacanist" target="_blank" title="Github">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Github
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://weibo.com/alpacanist" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://alpacanist.lofter.com" target="_blank" title="Lofter">
+                  
+                    <i class="fa fa-fw fa-pencil"></i>
+                  
+                  Lofter
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="" target="_blank" title="QQ">
+                  
+                    <i class="fa fa-fw fa-qq"></i>
+                  
+                  QQ
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://steamcommunity.com/id/alpacanist" target="_blank" title="Steam">
+                  
+                    <i class="fa fa-fw fa-steam-square"></i>
+                  
+                  Steam
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+          <div class="links-of-blogroll motion-element links-of-blogroll-inline">
+            <div class="links-of-blogroll-title">
+              <i class="fa  fa-fw fa-globe"></i>
+              传送门
+            </div>
+            <ul class="links-of-blogroll-list">
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://alpacanist.weebly.com/" title="设计作品" target="_blank">设计作品</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://alpacanist.farbox.com/" title="旧文" target="_blank">旧文</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://eggpuller.lofter.com/" title="扯淡诗社" target="_blank">扯淡诗社</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://alpacanist.indienova.com/" title="Indienova" target="_blank">Indienova</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="https://ink-doc-zh.herokuapp.com/" title="Ink 中文文档" target="_blank">Ink 中文文档</a>
+                </li>
+              
+            </ul>
+          </div>
+        
+
+      </section>
+
+      
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+            
+              
+            
+            
+              <p class="post-toc-empty">此文章未包含目录</p>
+            
+          </div>
+        </section>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2013 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">alpacanist</span>
+</div>
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+  <span class="post-count">
+      &nbsp; | &nbsp;
+      25.8k 字
+  </span>
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Pisces
+  </a>
+
+</div>
+
+        
+
+        
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+    </div>
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.0.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.0.1"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.0.1"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.0.1"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.0.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.0.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.0.1"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"alpacanist-github"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+    <script src="/vendors/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
+  
+
+
+
+
+
+
+  
+  
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length == 0) {
+       search_path = "search.xml";
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    function proceedsearch() {
+      $("body").append('<div class="popoverlay">').css('overflow', 'hidden');
+      $('.popup').toggle();
+
+    }
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+    'use strict';
+    $.ajax({
+        url: path,
+        dataType: "xml",
+        async: true,
+        success: function( xmlResponse ) {
+            // get the contents from search data
+            isfetched = true;
+            $('.popup').detach().appendTo('.header-inner');
+            var datas = $( "entry", xmlResponse ).map(function() {
+                return {
+                    title: $( "title", this ).text(),
+                    content: $("content",this).text(),
+                    url: $( "url" , this).text()
+                };
+            }).get();
+            var $input = document.getElementById(search_id);
+            var $resultContent = document.getElementById(content_id);
+            $input.addEventListener('input', function(){
+                var matchcounts = 0;
+                var str='<ul class=\"search-result-list\">';
+                var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                $resultContent.innerHTML = "";
+                if (this.value.trim().length > 1) {
+                // perform local searching
+                datas.forEach(function(data) {
+                    var isMatch = true;
+                    var content_index = [];
+                    var data_title = data.title.trim().toLowerCase();
+                    var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
+                    var data_url = data.url;
+                    var index_title = -1;
+                    var index_content = -1;
+                    var first_occur = -1;
+                    // only match artiles with not empty titles and contents
+                    if(data_title != '' && data_content != '') {
+                        keywords.forEach(function(keyword, i) {
+                            index_title = data_title.indexOf(keyword);
+                            index_content = data_content.indexOf(keyword);
+                            if( index_title < 0 && index_content < 0 ){
+                                isMatch = false;
+                            } else {
+                                if (index_content < 0) {
+                                    index_content = 0;
+                                }
+                                if (i == 0) {
+                                    first_occur = index_content;
+                                }
+                            }
+                        });
+                    }
+                    // show search results
+                    if (isMatch) {
+                        matchcounts += 1;
+                        str += "<li><a href='"+ data_url +"' class='search-result-title'>"+ data_title +"</a>";
+                        var content = data.content.trim().replace(/<[^>]+>/g,"");
+                        if (first_occur >= 0) {
+                            // cut out 100 characters
+                            var start = first_occur - 20;
+                            var end = first_occur + 80;
+                            if(start < 0){
+                                start = 0;
+                            }
+                            if(start == 0){
+                                end = 50;
+                            }
+                            if(end > content.length){
+                                end = content.length;
+                            }
+                            var match_content = content.substring(start, end);
+                            // highlight all keywords
+                            keywords.forEach(function(keyword){
+                                var regS = new RegExp(keyword, "gi");
+                                match_content = match_content.replace(regS, "<b class=\"search-keyword\">"+keyword+"</b>");
+                            });
+
+                            str += "<p class=\"search-result\">" + match_content +"...</p>"
+                        }
+                        str += "</li>";
+                    }
+                })};
+                str += "</ul>";
+                if (matchcounts == 0) { str = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>' }
+                if (keywords == "") { str = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>' }
+                $resultContent.innerHTML = str;
+            });
+            proceedsearch();
+        }
+    });}
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched == false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+
+    });
+
+    $('.popup-btn-close').click(function(e){
+      $('.popup').hide();
+      $(".popoverlay").remove();
+      $('body').css('overflow', '');
+    });
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+  </script>
+
+
+  
+
+  
+
+  
+
+</body>
+</html>

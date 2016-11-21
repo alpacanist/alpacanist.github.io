@@ -1,0 +1,731 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+      
+    
+
+    
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Monda:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|Great Vibes:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.0.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="ren'py,学习笔记," />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.0.1" />
+
+
+
+
+
+
+<meta name="description" content="毫无智慧的地精打算用 python 做文字游戏。
+
+1. 支持东亚语言在网上搜了一堆指南都是过时的，ren’py 更新太快了，现在不需要做什么多余的配置就能支持 unicode。方法毫无悬念，在 game/gui.rpy 中进行如下设置：12345678## The font used for in-game text. define gui.default_font = &amp;quot;（字体名称）">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Ren'py 掉坑记录(1)：配置第一个游戏">
+<meta property="og:url" content="http://yoursite.com/2016/10/03/2016-10-03-2/index.html">
+<meta property="og:site_name" content="Tlön Uqbar">
+<meta property="og:description" content="毫无智慧的地精打算用 python 做文字游戏。
+
+1. 支持东亚语言在网上搜了一堆指南都是过时的，ren’py 更新太快了，现在不需要做什么多余的配置就能支持 unicode。方法毫无悬念，在 game/gui.rpy 中进行如下设置：12345678## The font used for in-game text. define gui.default_font = &amp;quot;（字体名称）">
+<meta property="og:updated_time" content="2016-10-07T19:20:08.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Ren'py 掉坑记录(1)：配置第一个游戏">
+<meta name="twitter:description" content="毫无智慧的地精打算用 python 做文字游戏。
+
+1. 支持东亚语言在网上搜了一堆指南都是过时的，ren’py 更新太快了，现在不需要做什么多余的配置就能支持 unicode。方法毫无悬念，在 game/gui.rpy 中进行如下设置：12345678## The font used for in-game text. define gui.default_font = &amp;quot;（字体名称）">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Mist',
+    sidebar: {"position":"left","display":"post"},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: 6340723896110548000,
+      author: '★'
+    }
+  };
+</script>
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2016/10/03/2016-10-03-2/"/>
+
+  <title> Ren'py 掉坑记录(1)：配置第一个游戏 | Tlön Uqbar </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-hans">
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">Tlön Uqbar</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle"></p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            Categories
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            About
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            Tags
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                Ren'py 掉坑记录(1)：配置第一个游戏
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-count">
+             字
+          </span>
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+              &nbsp; | &nbsp;
+            <span class="post-meta-item-text">Posted on</span>
+            <time itemprop="dateCreated" datetime="2016-10-03T00:00:00-04:00" content="2016-10-03">
+              2016-10-03
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/有码/" itemprop="url" rel="index">
+                    <span itemprop="name">有码</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/10/03/2016-10-03-2/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/10/03/2016-10-03-2/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <blockquote class="blockquote-center"><p>毫无智慧的地精打算用 python 做文字游戏。</p>
+</blockquote>
+<h4 id="1-支持东亚语言"><a href="#1-支持东亚语言" class="headerlink" title="1. 支持东亚语言"></a>1. 支持东亚语言</h4><p>在网上搜了一堆指南都是过时的，ren’py 更新太快了，现在不需要做什么多余的配置就能支持 unicode。方法毫无悬念，在 <code>game/gui.rpy</code> 中进行如下设置：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">## The font used for in-game text. </div><div class="line">define gui.default_font = &quot;（字体名称）.ttf&quot;</div><div class="line"></div><div class="line">## The font used for character names.</div><div class="line">define gui.name_font = &quot;（字体名称）.ttf&quot;</div><div class="line"></div><div class="line">## The font used for out-of-game text.</div><div class="line">define gui.interface_font = &quot;（字体名称）.ttf&quot;</div></pre></td></tr></table></figure></p>
+<p>我用的是 Zpix 的个人版。这是一个让人感动到哭的像素字体，作者 github：<a href="https://github.com/SolidZORO/zpix-pixel-font" target="_blank" rel="external">Zpix-SolidZORO</a>。多作品商业版也才3000块，良心啊。</p>
+<a id="more"></a>
+<h4 id="2-跳转到变量指定的标签"><a href="#2-跳转到变量指定的标签" class="headerlink" title="2. 跳转到变量指定的标签"></a>2. 跳转到变量指定的标签</h4><p>把标题翻译成人话，就是这么个需求：假如你的游戏场景在一个罗马广场，广场分成 A-H 区，有编号 a-l 的人物在里面游荡。那么，和不同人对话时，如何方便地根据当前区域 id 和人物 id，跳转到名叫 <code>dialogue-&lt;area&gt;-&lt;char&gt;</code> 的剧情标签？<br>范例代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"># 设置控制跳转的 string</div><div class="line">$ flow = &quot;hub&quot;</div><div class="line"># 设置 string 中的变量</div><div class="line">$ ch = 0</div><div class="line">e &quot;选择跳转&quot;</div><div class="line">menu:</div><div class="line">    &quot;跳转到1&quot;:</div><div class="line">        $ ch = 1</div><div class="line">    &quot;跳转到2&quot;:</div><div class="line">        $ ch = 2</div><div class="line">#跳转到 flow 指定的标签</div><div class="line">jump expression flow + &quot;%d&quot; % ch</div><div class="line">label hub1:</div><div class="line">    &quot;这里是 hub1&quot;</div><div class="line">    jump ending</div><div class="line">label hub2:</div><div class="line">    &quot;这里是 hub2&quot;</div><div class="line">    jump ending</div><div class="line">label ending:</div><div class="line">    &quot;结束。&quot;</div></pre></td></tr></table></figure></p>
+<h4 id="3-画面性能和有关分辨率的天坑"><a href="#3-画面性能和有关分辨率的天坑" class="headerlink" title="3. 画面性能和有关分辨率的天坑"></a>3. 画面性能和有关分辨率的天坑</h4><p>这点目前还没搞明白。总之在 <code>game/gui.rpy</code> 的第一个区块里，设置分辨率似乎有两种方法：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">## Calling gui.init resets the styles to sensible default values, and sets the</div><div class="line">## width and height of the game.</div><div class="line">init python:</div><div class="line">    config.screen_width = 960</div><div class="line">    config.screen_height = 540</div><div class="line">    gui.init(960, 540)</div></pre></td></tr></table></figure></p>
+<p>其中 <code>gui.init(w,h)</code> 只修改了窗口缩放的大小，而 <code>config</code> 设置画布大小。<br>区别在 retina 屏上不是很明显，但据说在别的机器上比较坑。 </p>
+<h4 id="4-让人气到喷火的坑：没有块注释"><a href="#4-让人气到喷火的坑：没有块注释" class="headerlink" title="4. 让人气到喷火的坑：没有块注释"></a>4. 让人气到喷火的坑：没有块注释</h4><p>如字面意思。</p>
+<h4 id="5-奇技淫巧之发光字"><a href="#5-奇技淫巧之发光字" class="headerlink" title="5. 奇技淫巧之发光字"></a>5. 奇技淫巧之发光字</h4><p>在文字上加多层描边，宽度和 alpha 逐层递减。可以做出极度精神污染的鬼畜效果。</p>
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/ren-py/" rel="tag">#ren'py</a>
+          
+            <a href="/tags/学习笔记/" rel="tag">#学习笔记</a>
+          
+        </div>
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2016/10/03/2016-10-03/" rel="next" title="游戏设计随想：你不存在">
+                <i class="fa fa-chevron-left"></i> 游戏设计随想：你不存在
+              </a>
+            
+          </div>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2016/10/03/2016-10-03-3/" rel="prev" title="游戏设计随想：Das Daema">
+                游戏设计随想：Das Daema <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="2016/10/03/2016-10-03-2/"
+           data-title="Ren'py 掉坑记录(1)：配置第一个游戏" data-url="http://yoursite.com/2016/10/03/2016-10-03-2/">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.png"
+               alt="alpacanist" />
+          <p class="site-author-name" itemprop="name">alpacanist</p>
+          <p class="site-description motion-element" itemprop="description">游戏设计，梦境</p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">32</span>
+              <span class="site-state-item-name">posts</span>
+            </a>
+          </div>
+
+          <div class="site-state-item site-state-wordcount">
+            <a href="/categories">
+              <span class="site-state-item-count"></span>
+              <span class="site-state-item-name">字数</span>
+            </a>
+          </div>
+
+          
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-name">categories</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/alpacanist" target="_blank" title="Github">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Github
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://weibo.com/alpacanist" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://alpacanist.lofter.com" target="_blank" title="Lofter">
+                  
+                    <i class="fa fa-fw fa-pencil"></i>
+                  
+                  Lofter
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="" target="_blank" title="QQ">
+                  
+                    <i class="fa fa-fw fa-qq"></i>
+                  
+                  QQ
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://steamcommunity.com/id/alpacanist" target="_blank" title="Steam">
+                  
+                    <i class="fa fa-fw fa-steam-square"></i>
+                  
+                  Steam
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+      </section>
+
+      
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+            
+              
+            
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-支持东亚语言"><span class="nav-number">1.</span> <span class="nav-text">1. 支持东亚语言</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-跳转到变量指定的标签"><span class="nav-number">2.</span> <span class="nav-text">2. 跳转到变量指定的标签</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-画面性能和有关分辨率的天坑"><span class="nav-number">3.</span> <span class="nav-text">3. 画面性能和有关分辨率的天坑</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-让人气到喷火的坑：没有块注释"><span class="nav-number">4.</span> <span class="nav-text">4. 让人气到喷火的坑：没有块注释</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#5-奇技淫巧之发光字"><span class="nav-number">5.</span> <span class="nav-text">5. 奇技淫巧之发光字</span></a></li></ol></div>
+            
+          </div>
+        </section>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2013 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">alpacanist</span>
+</div>
+
+<div class="powered-by">
+  Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
+  <span class="post-count">
+      &nbsp; | &nbsp;
+       字
+  </span>
+</div>
+
+<div class="theme-info">
+  Theme -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+
+</div>
+
+        
+
+        
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+    </div>
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.0.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.0.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.0.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.0.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.0.1"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"alpacanist-github"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+    <script src="/vendors/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+    <script src="/js/src/hook-duoshuo.js"></script>
+  
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
